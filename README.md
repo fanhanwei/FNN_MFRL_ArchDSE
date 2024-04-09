@@ -53,7 +53,8 @@ To use Random Forest, run this scrpt:
 python dse-rf.py
 ```
 
->[!NOTE] We directly modify the sklearn and botorch files to implement the above algorithms. Thus, these baselines must be run in the conda environment provided in this repo. The official sklearn and botorch package can't support these algorithms.
+>[!NOTE]
+>We directly modify the sklearn and botorch files to implement the above algorithms. Thus, these baselines must be run in the conda environment provided in this repo. The official sklearn and botorch package can't support these algorithms.
 
 A dataset is automatically built under **dataset/vcs**.
 The DSE results are stored in the **log** directory, containing:
