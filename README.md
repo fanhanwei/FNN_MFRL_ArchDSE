@@ -9,7 +9,8 @@ https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Lin
 ```sh
 RISCV_Model_and_DSE/FNN_DSE/analytic/mcpat/mcpat-1.3.0
 ```
->[!NOTE] If our pre-built McPAT is incompatible with your local environment, please re-build McPAT in this directory. For detailed building instructions, please check the McPAT official repo: https://github.com/HewlettPackard/mcpat 
+>[!NOTE]
+>If our pre-built McPAT is incompatible with your local environment, please re-build McPAT in this directory. For detailed building instructions, please check the McPAT official repo: https://github.com/HewlettPackard/mcpat 
 
 * VCS is needed during the DSE, please make sure vcs is callable in your commmand line.
 
