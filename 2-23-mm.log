@@ -1,0 +1,4054 @@
+nohup: ignoring input
+Logs stored in /proj/users/hanwei.fan/RISCV_Model_and_DSE/FNN_DSE/logs/MBPGMF/mm-405060-456/1.
+Namespace(num_episode=400, num_step=20, lr=0.01, area_limit=7.5, warmup=100, lf_iter=200, sigma=0.3, decay_rate=0.97, hf_sigma=0.3, hf_decay_rate=0.95, seed=1, method='MBPGMF', opt='rmsprop', home_dir='/proj/users/hanwei.fan/RISCV_Model_and_DSE/FNN_DSE', log_path='/proj/users/hanwei.fan/RISCV_Model_and_DSE/FNN_DSE/logs/MBPGMF/mm-405060-456/1', benchmark='mm-405060-456')
+Start training
+
+--- episode: 1 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4255, area = 4.46806
+Found in database, id = 5023, area = 4.57174
+Found in database, id = 12351, area = 4.39874
+Found in database, id = 5827, area = 4.43229
+Found in database, id = 17258, area = 4.5555
+Found in database, id = 21946, area = 4.62346
+Found in database, id = 886, area = 4.7084
+Found in database, id = 39142, area = 4.66994
+Found in database, id = 27613, area = 4.67955
+Found in database, id = 29359, area = 4.68938
+Found in database, id = 13339, area = 4.98813
+Found in database, id = 20256, area = 5.39945
+Found in database, id = 22242, area = 5.59355
+Found in database, id = 22243, area = 5.67909
+Found in database, id = 21855, area = 5.67909
+Found in database, id = 23496, area = 6.05537
+Found in database, id = 24034, area = 7.0596
+Found in database, id = 25456, area = 7.19901
+
+--- episode: 2 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 28, area = 4.46327
+Found in database, id = 29, area = 4.60689
+Found in database, id = 305, area = 4.71058
+Found in database, id = 316, area = 4.64044
+Found in database, id = 101, area = 4.87956
+Found in database, id = 13753, area = 4.8411
+Found in database, id = 13684, area = 4.90906
+Found in database, id = 13693, area = 5.91329
+Found in database, id = 22688, area = 6.28748
+Found in database, id = 21502, area = 6.47042
+Found in database, id = 21503, area = 6.55596
+Found in database, id = 22818, area = 6.55596
+Found in database, id = 21444, area = 6.91864
+Found in database, id = 21865, area = 7.05805
+Found in database, id = 21861, area = 7.07981
+
+--- episode: 3 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5174, area = 4.45013
+Found in database, id = 13159, area = 4.4845
+Found in database, id = 13358, area = 4.52444
+Found in database, id = 11999, area = 4.8207
+Found in database, id = 12000, area = 5.71311
+Found in database, id = 12216, area = 5.74969
+Found in database, id = 13498, area = 5.74969
+Found in database, id = 22744, area = 6.16458
+Found in database, id = 22771, area = 6.17448
+Found in database, id = 22772, area = 6.35742
+Found in database, id = 17395, area = 6.44295
+Found in database, id = 26536, area = 6.44295
+Found in database, id = 98625, area = 6.80564
+Found in database, id = 21644, area = 6.87494
+Found in database, id = 21681, area = 7.01898
+Found in database, id = 26882, area = 7.15838
+Found in database, id = 26883, area = 9.18876
+
+--- episode: 4 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4909, area = 4.45882
+Found in database, id = 4270, area = 4.37064
+Found in database, id = 6762, area = 4.38813
+Found in database, id = 4271, area = 4.51427
+Found in database, id = 13487, area = 4.55128
+Found in database, id = 13653, area = 4.79039
+Found in database, id = 12546, area = 4.89408
+Found in database, id = 608, area = 5.34755
+Found in database, id = 7372, area = 5.36504
+Found in database, id = 13071, area = 6.15375
+Found in database, id = 23585, area = 6.19035
+Found in database, id = 49013, area = 6.38445
+Found in database, id = 49037, area = 8.20658
+
+--- episode: 5 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 5123, area = 4.48084
+Found in database, id = 5708, area = 4.41014
+Found in database, id = 13150, area = 4.55377
+Found in database, id = 13151, area = 4.85003
+Found in database, id = 12549, area = 4.95371
+Found in database, id = 3610, area = 4.93623
+Found in database, id = 17472, area = 4.85952
+Found in database, id = 12767, area = 5.27084
+Found in database, id = 12878, area = 5.30438
+Found in database, id = 24127, area = 5.34098
+Found in database, id = 23126, area = 5.54061
+Found in database, id = 107638, area = 5.62615
+Found in database, id = 97259, area = 5.62615
+Found in database, id = 25495, area = 6.5543
+Found in database, id = 107639, area = 8.45561
+
+--- episode: 6 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5174, area = 4.45013
+Found in database, id = 65, area = 4.46576
+Found in database, id = 200, area = 4.48306
+Found in database, id = 201, area = 4.78704
+Found in database, id = 92, area = 4.82163
+Found in database, id = 14039, area = 4.78318
+Found in database, id = 14153, area = 4.78318
+Found in database, id = 14093, area = 4.96612
+Found in database, id = 22016, area = 5.37329
+Found in database, id = 25942, area = 5.45882
+Found in database, id = 21693, area = 5.65206
+Found in database, id = 21694, area = 6.65629
+Found in database, id = 21695, area = 7.01898
+Found in database, id = 25188, area = 7.15838
+Found in database, id = 25189, area = 7.18015
+
+--- episode: 7 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5022, area = 4.42812
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 12333, area = 4.48201
+Found in database, id = 10117, area = 4.61744
+Found in database, id = 15980, area = 5.0884
+Found in database, id = 17249, area = 5.23202
+Found in database, id = 21071, area = 5.33571
+Found in database, id = 19960, area = 5.23202
+Found in database, id = 22097, area = 5.33571
+Found in database, id = 5003, area = 5.33488
+Found in database, id = 22756, area = 5.30216
+Found in database, id = 24035, area = 6.23031
+Found in database, id = 24036, area = 8.13162
+
+--- episode: 8 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5174, area = 4.45013
+Found in database, id = 5175, area = 4.46743
+Found in database, id = 8105, area = 4.7021
+Found in database, id = 15755, area = 5.10927
+Found in database, id = 15756, area = 5.21295
+Found in database, id = 15738, area = 5.10927
+Found in database, id = 14822, area = 5.14386
+Found in database, id = 14823, area = 5.18045
+Found in database, id = 16965, area = 5.19035
+Found in database, id = 22016, area = 5.37329
+Found in database, id = 25942, area = 5.45882
+Found in database, id = 50397, area = 5.45882
+Found in database, id = 21679, area = 5.65206
+Found in database, id = 21680, area = 6.01474
+Found in database, id = 21935, area = 6.03651
+Found in database, id = 21936, area = 7.04074
+Found in database, id = 24768, area = 7.18015
+
+--- episode: 9 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4909, area = 4.45882
+Found in database, id = 4270, area = 4.37064
+Found in database, id = 4426, area = 4.38794
+Found in database, id = 13157, area = 4.40543
+Found in database, id = 13251, area = 4.42495
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 22777, area = 4.45955
+Found in database, id = 25571, area = 4.49614
+Found in database, id = 13767, area = 4.73526
+Found in database, id = 26886, area = 5.10945
+Found in database, id = 23506, area = 5.30355
+Found in database, id = 24315, area = 5.38908
+Found in database, id = 56285, area = 5.38908
+Found in database, id = 23509, area = 5.58232
+Found in database, id = 26893, area = 5.9586
+Found in database, id = 24257, area = 6.96284
+Found in database, id = 24258, area = 7.10224
+
+--- episode: 10 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 10117, area = 4.61744
+Found in database, id = 10118, area = 4.63474
+Found in database, id = 10119, area = 4.79462
+Found in database, id = 13225, area = 4.8312
+Found in database, id = 21498, area = 5.20539
+Found in database, id = 23340, area = 6.13354
+Found in database, id = 23459, area = 6.14344
+Found in database, id = 23460, area = 6.32638
+Found in database, id = 23252, area = 6.32638
+Found in database, id = 23253, area = 6.41191
+Found in database, id = 24091, area = 8.31323
+
+--- episode: 11 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5174, area = 4.45013
+Found in database, id = 5175, area = 4.46743
+Found in database, id = 13737, area = 4.43271
+Found in database, id = 13912, area = 4.73669
+Found in database, id = 13777, area = 4.77328
+Found in database, id = 21724, area = 5.36743
+Found in database, id = 21725, area = 5.37733
+Found in database, id = 21726, area = 5.56027
+Found in database, id = 48911, area = 5.89259
+Found in database, id = 23830, area = 6.08582
+Found in database, id = 23831, area = 6.10759
+Found in database, id = 23832, area = 7.11182
+Found in database, id = 23237, area = 7.22772
+Found in database, id = 21659, area = 7.22772
+Found in database, id = 25208, area = 7.36713
+
+--- episode: 12 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4411, area = 4.34173
+Found in database, id = 5175, area = 4.46743
+Found in database, id = 4834, area = 4.6273
+Found in database, id = 11475, area = 4.62595
+Found in database, id = 22471, area = 4.62595
+Found in database, id = 15695, area = 4.92221
+Found in database, id = 13481, area = 4.95879
+Found in database, id = 13231, area = 5.136
+Found in database, id = 13697, area = 5.15164
+Found in database, id = 15697, area = 5.15164
+Found in database, id = 23081, area = 5.56296
+Found in database, id = 23082, area = 5.64849
+Found in database, id = 22685, area = 6.65272
+Found in database, id = 22653, area = 7.01541
+Found in database, id = 25392, area = 7.15481
+Found in database, id = 24763, area = 7.17658
+
+--- episode: 13 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4389, area = 4.37244
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 7433, area = 4.575
+Found in database, id = 7434, area = 5.50315
+Found in database, id = 13964, area = 5.64719
+Found in database, id = 48912, area = 5.68378
+Found in database, id = 14094, area = 5.9229
+Found in database, id = 25164, area = 6.29709
+Found in database, id = 25165, area = 6.48551
+Found in database, id = 22216, area = 6.57104
+Found in database, id = 21859, area = 6.57104
+Found in database, id = 21860, area = 6.94041
+Found in database, id = 21861, area = 7.07981
+
+--- episode: 14 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4255, area = 4.46806
+Found in database, id = 4412, area = 4.5016
+Found in database, id = 7481, area = 4.53598
+Found in database, id = 4860, area = 4.56956
+Found in database, id = 81, area = 4.58519
+Found in database, id = 11393, area = 4.51975
+Found in database, id = 11402, area = 4.52958
+Found in database, id = 13897, area = 4.65278
+Found in database, id = 22719, area = 4.65278
+Found in database, id = 29359, area = 4.68938
+Found in database, id = 49086, area = 4.88348
+Found in database, id = 14092, area = 5.12259
+Found in database, id = 22242, area = 5.59355
+Found in database, id = 22243, area = 5.67909
+Found in database, id = 22732, area = 6.68332
+Found in database, id = 22733, area = 7.0596
+Found in database, id = 25316, area = 7.19901
+
+--- episode: 15 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5174, area = 4.45013
+Found in database, id = 5175, area = 4.46743
+Found in database, id = 200, area = 4.48306
+Found in database, id = 201, area = 4.78704
+Found in database, id = 1054, area = 5.19421
+Found in database, id = 955, area = 5.2979
+Found in database, id = 863, area = 5.35408
+Found in database, id = 21909, area = 5.31563
+Found in database, id = 16995, area = 5.49857
+Found in database, id = 17682, area = 5.49857
+Found in database, id = 17683, area = 5.5841
+Found in database, id = 21693, area = 5.65206
+Found in database, id = 21694, area = 6.65629
+Found in database, id = 21695, area = 7.01898
+Found in database, id = 25188, area = 7.15838
+Found in database, id = 26804, area = 9.18876
+
+--- episode: 16 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 11998, area = 4.67708
+Found in database, id = 11999, area = 4.8207
+Found in database, id = 17249, area = 5.23202
+Found in database, id = 21071, area = 5.33571
+Found in database, id = 21104, area = 5.26557
+Found in database, id = 21615, area = 5.30216
+Found in database, id = 21898, area = 5.31206
+Found in database, id = 15489, area = 5.495
+Found in database, id = 21825, area = 6.42315
+Found in database, id = 7219, area = 6.56719
+Found in database, id = 21989, area = 6.65272
+Found in database, id = 21563, area = 6.65272
+Found in database, id = 21564, area = 7.01541
+Found in database, id = 25179, area = 7.15481
+Found in database, id = 25200, area = 9.18519
+
+--- episode: 17 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5022, area = 4.42812
+Found in database, id = 4255, area = 4.46806
+Found in database, id = 4957, area = 4.59126
+Found in database, id = 13207, area = 4.76107
+Found in database, id = 13259, area = 4.86475
+Found in database, id = 132, area = 4.84601
+Found in database, id = 133, area = 5.2202
+Found in database, id = 1458, area = 6.1126
+Found in database, id = 23458, area = 6.07414
+Found in database, id = 19018, area = 6.25708
+Found in database, id = 23460, area = 6.32638
+Found in database, id = 23461, area = 6.6587
+Found in database, id = 107640, area = 8.56001
+
+--- episode: 18 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5022, area = 4.42812
+Found in database, id = 4703, area = 4.32443
+Found in database, id = 4704, area = 4.45013
+Found in database, id = 16495, area = 4.52444
+Found in database, id = 4706, area = 4.69744
+Found in database, id = 812, area = 4.60938
+Found in database, id = 122, area = 4.64293
+Found in database, id = 12449, area = 4.60447
+Found in database, id = 13560, area = 4.90073
+Found in database, id = 13509, area = 5.08368
+Found in database, id = 13697, area = 5.15164
+Found in database, id = 14087, area = 5.16672
+Found in database, id = 22754, area = 5.57804
+Found in database, id = 22755, area = 5.66357
+Found in database, id = 15788, area = 5.66357
+Found in database, id = 15789, area = 6.66781
+Found in database, id = 22436, area = 7.03717
+Found in database, id = 24763, area = 7.17658
+
+--- episode: 19 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5022, area = 4.42812
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4909, area = 4.45882
+Found in database, id = 4270, area = 4.37064
+Found in database, id = 4602, area = 4.49385
+Found in database, id = 6141, area = 4.64677
+Found in database, id = 1608, area = 5.10716
+Found in database, id = 2728, area = 5.21084
+Found in database, id = 1340, area = 5.12446
+Found in database, id = 2767, area = 5.28433
+Found in database, id = 23960, area = 5.23473
+Found in database, id = 43331, area = 5.42882
+Found in database, id = 23882, area = 5.49678
+Found in database, id = 54457, area = 5.84269
+Found in database, id = 54458, area = 6.84693
+Found in database, id = 23885, area = 6.96284
+Found in database, id = 23047, area = 6.96284
+Found in database, id = 24287, area = 7.10224
+
+--- episode: 20 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4411, area = 4.34173
+Found in database, id = 7889, area = 4.30701
+Found in database, id = 7983, area = 4.43022
+Found in database, id = 10557, area = 4.66934
+Found in database, id = 13436, area = 4.70592
+Found in database, id = 22409, area = 5.08011
+Found in database, id = 22199, area = 5.27335
+Found in database, id = 21500, area = 5.28325
+Found in database, id = 21501, area = 5.46619
+Found in database, id = 22621, area = 5.46619
+Found in database, id = 22622, area = 5.55172
+Found in database, id = 22818, area = 6.55596
+Found in database, id = 21444, area = 6.91864
+Found in database, id = 21865, area = 7.05805
+Found in database, id = 21861, area = 7.07981
+
+--- episode: 21 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5022, area = 4.42812
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 12333, area = 4.48201
+Found in database, id = 10117, area = 4.61744
+Found in database, id = 233, area = 4.70239
+Found in database, id = 67, area = 5.17334
+Found in database, id = 359, area = 5.31697
+Found in database, id = 1573, area = 5.35051
+Found in database, id = 21898, area = 5.31206
+Found in database, id = 15489, area = 5.495
+Found in database, id = 21740, area = 5.56296
+Found in database, id = 7219, area = 6.56719
+Found in database, id = 21989, area = 6.65272
+Found in database, id = 21563, area = 6.65272
+Found in database, id = 21564, area = 7.01541
+Found in database, id = 25179, area = 7.15481
+Found in database, id = 25180, area = 7.17658
+
+--- episode: 22 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 11998, area = 4.67708
+Found in database, id = 13446, area = 4.69438
+Found in database, id = 13797, area = 4.72897
+Found in database, id = 13798, area = 4.76556
+Found in database, id = 13131, area = 4.94276
+Found in database, id = 13129, area = 4.9584
+Found in database, id = 7217, area = 5.15164
+Found in database, id = 20989, area = 5.56653
+Found in database, id = 22182, area = 6.57076
+Found in database, id = 22178, area = 6.65629
+Found in database, id = 21694, area = 6.65629
+Found in database, id = 21695, area = 7.01898
+Found in database, id = 25188, area = 7.15838
+Found in database, id = 26804, area = 9.18876
+
+--- episode: 23 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 4957, area = 4.59126
+Found in database, id = 4958, area = 5.48366
+Found in database, id = 11571, area = 5.65347
+Found in database, id = 13478, area = 5.69005
+Found in database, id = 13210, area = 5.69005
+Found in database, id = 23072, area = 6.06424
+Found in database, id = 29259, area = 6.13354
+Found in database, id = 23537, area = 6.31075
+Found in database, id = 22816, area = 6.45479
+Found in database, id = 22817, area = 6.54032
+Found in database, id = 23498, area = 8.57069
+
+--- episode: 24 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5174, area = 4.45013
+Found in database, id = 11998, area = 4.67708
+Found in database, id = 13446, area = 4.69438
+Found in database, id = 17231, area = 5.1057
+Found in database, id = 17699, area = 5.14029
+Found in database, id = 22469, area = 5.17688
+Found in database, id = 25789, area = 5.35408
+Found in database, id = 29295, area = 5.67938
+Found in database, id = 22752, area = 5.87262
+Found in database, id = 17005, area = 5.87262
+Found in database, id = 22866, area = 6.87685
+Found in database, id = 22854, area = 6.99275
+Found in database, id = 22855, area = 7.13215
+Found in database, id = 25412, area = 9.16253
+
+--- episode: 25 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4411, area = 4.34173
+Found in database, id = 4412, area = 4.5016
+Found in database, id = 4834, area = 4.6273
+Found in database, id = 11475, area = 4.62595
+Found in database, id = 13774, area = 4.92993
+Found in database, id = 13725, area = 4.96651
+Found in database, id = 13924, area = 4.96651
+Found in database, id = 13998, area = 5.97075
+Found in database, id = 13999, area = 8.00112
+
+--- episode: 26 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 698, area = 4.71746
+Found in database, id = 234, area = 5.18842
+Found in database, id = 517, area = 5.33204
+Found in database, id = 1925, area = 5.36559
+Found in database, id = 21914, area = 5.32166
+Found in database, id = 15490, area = 5.51008
+Found in database, id = 22842, area = 5.57804
+Found in database, id = 22754, area = 5.57804
+Found in database, id = 22755, area = 5.66357
+Found in database, id = 21737, area = 6.66781
+Found in database, id = 21738, area = 7.03717
+Found in database, id = 25180, area = 7.17658
+
+--- episode: 27 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 10117, area = 4.61744
+Found in database, id = 10118, area = 4.63474
+Found in database, id = 100, area = 4.71968
+Found in database, id = 409, area = 4.82337
+Found in database, id = 1338, area = 4.73476
+Found in database, id = 1339, area = 5.10895
+Found in database, id = 5802, area = 5.06302
+Found in database, id = 23295, area = 5.09962
+Found in database, id = 23060, area = 5.28803
+Found in database, id = 16914, area = 5.28803
+Found in database, id = 54420, area = 5.37357
+Found in database, id = 17202, area = 5.37357
+Found in database, id = 21702, area = 5.5668
+Found in database, id = 48954, area = 6.57104
+Found in database, id = 21603, area = 6.94041
+Found in database, id = 23599, area = 7.07981
+
+--- episode: 28 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5022, area = 4.42812
+Found in database, id = 4255, area = 4.46806
+Found in database, id = 4412, area = 4.5016
+Found in database, id = 80, area = 4.51723
+Found in database, id = 4390, area = 4.53231
+Found in database, id = 5125, area = 4.65801
+Found in database, id = 22235, area = 4.57749
+Found in database, id = 30538, area = 4.61408
+Found in database, id = 37190, area = 4.8025
+Found in database, id = 14279, area = 5.10648
+Found in database, id = 13248, area = 5.12199
+Found in database, id = 21508, area = 5.52916
+Found in database, id = 25371, area = 5.6147
+Found in database, id = 49009, area = 5.6147
+Found in database, id = 22296, area = 6.54285
+Found in database, id = 22198, area = 6.68689
+Found in database, id = 23821, area = 7.06317
+Found in database, id = 25448, area = 7.20258
+
+--- episode: 29 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4255, area = 4.46806
+Found in database, id = 4957, area = 4.59126
+Found in database, id = 11999, area = 4.8207
+Found in database, id = 13437, area = 4.85425
+Found in database, id = 13301, area = 4.89083
+Found in database, id = 13646, area = 4.90073
+Found in database, id = 13605, area = 4.96869
+Found in database, id = 13303, area = 5.97293
+Found in database, id = 13405, area = 5.98253
+Found in database, id = 24001, area = 6.39742
+Found in database, id = 22232, area = 6.58584
+Found in database, id = 22233, area = 6.67138
+Found in database, id = 21699, area = 6.67138
+Found in database, id = 21700, area = 7.04074
+Found in database, id = 25189, area = 7.18015
+
+--- episode: 30 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5022, area = 4.42812
+Found in database, id = 5174, area = 4.45013
+Found in database, id = 13358, area = 4.52444
+Found in database, id = 13359, area = 4.62813
+Found in database, id = 4834, area = 4.6273
+Found in database, id = 4835, area = 5.55545
+Found in database, id = 15779, area = 5.79012
+Found in database, id = 13222, area = 5.82671
+Found in database, id = 13445, area = 7.72802
+
+--- episode: 31 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5022, area = 4.42812
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 12333, area = 4.48201
+Found in database, id = 28, area = 4.46327
+Found in database, id = 66, area = 4.76202
+Found in database, id = 273, area = 4.7771
+Found in database, id = 7295, area = 4.7064
+Found in database, id = 13151, area = 4.85003
+Found in database, id = 1730, area = 5.82863
+Found in database, id = 13522, area = 5.77903
+Found in database, id = 25450, area = 6.19392
+Found in database, id = 36817, area = 6.38801
+Found in database, id = 50396, area = 8.21015
+
+--- episode: 32 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 12534, area = 4.50151
+Found in database, id = 14556, area = 4.50683
+Found in database, id = 4642, area = 4.47834
+Found in database, id = 4643, area = 4.49385
+Found in database, id = 2897, area = 4.73297
+Found in database, id = 17612, area = 4.79039
+Found in database, id = 1108, area = 4.91014
+Found in database, id = 13951, area = 4.86054
+Found in database, id = 13824, area = 4.87003
+Found in database, id = 14202, area = 5.79818
+Found in database, id = 14203, area = 5.99781
+Found in database, id = 6514, area = 7.89912
+
+--- episode: 33 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 10117, area = 4.61744
+Found in database, id = 233, area = 4.70239
+Found in database, id = 1165, area = 5.07657
+Found in database, id = 2655, area = 5.18026
+Found in database, id = 133, area = 5.2202
+Found in database, id = 925, area = 5.25375
+Found in database, id = 21499, area = 5.21529
+Found in database, id = 23004, area = 5.39823
+Found in database, id = 21501, area = 5.46619
+Found in database, id = 22621, area = 5.46619
+Found in database, id = 22622, area = 5.55172
+Found in database, id = 22818, area = 6.55596
+Found in database, id = 21444, area = 6.91864
+Found in database, id = 21865, area = 7.05805
+Found in database, id = 21861, area = 7.07981
+
+--- episode: 34 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4255, area = 4.46806
+Found in database, id = 5023, area = 4.57174
+Found in database, id = 79, area = 4.48369
+Found in database, id = 4266, area = 4.49876
+Found in database, id = 13149, area = 4.54394
+Found in database, id = 13150, area = 4.55377
+Found in database, id = 13244, area = 4.85775
+Found in database, id = 13584, area = 4.86724
+Found in database, id = 12906, area = 5.27441
+Found in database, id = 12976, area = 6.16681
+Found in database, id = 42165, area = 6.20341
+Found in database, id = 107641, area = 6.40303
+Found in database, id = 21461, area = 6.47233
+Found in database, id = 22696, area = 6.82498
+Found in database, id = 107642, area = 6.82498
+Found in database, id = 29200, area = 6.94089
+Found in database, id = 37505, area = 8.84221
+
+--- episode: 35 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4266, area = 4.49876
+Found in database, id = 4910, area = 4.60245
+Found in database, id = 4271, area = 4.51427
+Found in database, id = 4427, area = 4.54782
+Found in database, id = 5710, area = 4.58732
+Found in database, id = 22236, area = 4.58732
+Found in database, id = 54411, area = 4.62391
+Found in database, id = 33531, area = 4.81801
+Found in database, id = 13248, area = 5.12199
+Found in database, id = 45807, area = 5.71614
+Found in database, id = 54412, area = 5.80168
+Found in database, id = 32208, area = 6.72983
+Found in database, id = 54413, area = 8.63114
+
+--- episode: 36 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4255, area = 4.46806
+Found in database, id = 5023, area = 4.57174
+Found in database, id = 13358, area = 4.52444
+Found in database, id = 4588, area = 5.48616
+Found in database, id = 4835, area = 5.55545
+Found in database, id = 15779, area = 5.79012
+Found in database, id = 13222, area = 5.82671
+Found in database, id = 13726, area = 5.97075
+Found in database, id = 23263, area = 6.5649
+Found in database, id = 26805, area = 6.5748
+Found in database, id = 22950, area = 6.75774
+Found in database, id = 22951, area = 6.84327
+Found in database, id = 22466, area = 6.84327
+Found in database, id = 22467, area = 7.20596
+Found in database, id = 25309, area = 7.34536
+Found in database, id = 25312, area = 9.37574
+
+--- episode: 37 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4411, area = 4.34173
+Found in database, id = 2, area = 4.35736
+Found in database, id = 4389, area = 4.37244
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 7433, area = 4.575
+Found in database, id = 7434, area = 5.50315
+Found in database, id = 1596, area = 5.82278
+Found in database, id = 14235, area = 5.77886
+Found in database, id = 11727, area = 5.78869
+Found in database, id = 7261, area = 7.69
+
+--- episode: 38 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 10117, area = 4.61744
+Found in database, id = 13666, area = 4.72113
+Found in database, id = 15063, area = 4.99163
+Found in database, id = 21274, area = 5.09532
+Found in database, id = 21156, area = 5.13526
+Found in database, id = 10413, area = 5.16881
+Found in database, id = 21498, area = 5.20539
+Found in database, id = 17806, area = 5.3826
+Found in database, id = 17299, area = 5.3826
+Found in database, id = 17808, area = 5.45055
+Found in database, id = 22816, area = 6.45479
+Found in database, id = 22817, area = 6.54032
+Found in database, id = 23498, area = 8.57069
+
+--- episode: 39 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 5204, area = 4.46494
+Found in database, id = 7983, area = 4.43022
+Found in database, id = 7984, area = 4.62346
+Found in database, id = 105312, area = 4.78695
+Found in database, id = 17924, area = 4.83725
+Found in database, id = 13128, area = 4.85288
+Found in database, id = 7217, area = 5.15164
+Found in database, id = 21740, area = 5.56296
+Found in database, id = 7219, area = 6.56719
+Found in database, id = 21989, area = 6.65272
+Found in database, id = 21563, area = 6.65272
+Found in database, id = 21564, area = 7.01541
+Found in database, id = 25179, area = 7.15481
+Found in database, id = 25180, area = 7.17658
+
+--- episode: 40 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4411, area = 4.34173
+Found in database, id = 7889, area = 4.30701
+Found in database, id = 13306, area = 4.4107
+Found in database, id = 3, area = 4.39196
+Found in database, id = 13376, area = 4.32651
+Found in database, id = 13377, area = 4.45221
+Found in database, id = 107643, area = 4.62691
+Found in database, id = 29819, area = 4.67722
+Found in database, id = 14774, area = 4.9812
+Found in database, id = 14130, area = 4.9812
+Found in database, id = 14228, area = 4.99671
+Found in database, id = 14216, area = 5.18995
+Found in database, id = 13856, area = 5.20497
+Found in database, id = 18860, area = 5.20497
+Found in database, id = 22501, area = 6.2092
+Found in database, id = 54489, area = 8.23958
+
+--- episode: 41 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 28, area = 4.46327
+Found in database, id = 15, area = 4.56695
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 4602, area = 4.49385
+Found in database, id = 6920, area = 4.51134
+Found in database, id = 13487, area = 4.55128
+Found in database, id = 13151, area = 4.85003
+Found in database, id = 12549, area = 4.95371
+Found in database, id = 9769, area = 4.85952
+Found in database, id = 12906, area = 5.27441
+Found in database, id = 12682, area = 5.37809
+Found in database, id = 12559, area = 5.27441
+Found in database, id = 105912, area = 6.16681
+Found in database, id = 29342, area = 6.20341
+Found in database, id = 107644, area = 6.40303
+Found in database, id = 107645, area = 6.48857
+Found in database, id = 107646, area = 8.31071
+
+--- episode: 42 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5022, area = 4.42812
+Found in database, id = 4411, area = 4.34173
+Found in database, id = 2, area = 4.35736
+Found in database, id = 4389, area = 4.37244
+Found in database, id = 12568, area = 4.3956
+Found in database, id = 4390, area = 4.53231
+Found in database, id = 5125, area = 4.65801
+Found in database, id = 742, area = 4.95427
+Found in database, id = 13403, area = 4.91034
+Found in database, id = 22229, area = 5.32523
+Found in database, id = 29341, area = 5.51365
+Found in database, id = 49028, area = 5.85265
+Found in database, id = 49029, area = 5.85265
+Found in database, id = 29379, area = 5.96855
+Found in database, id = 29329, area = 6.8967
+Found in database, id = 21645, area = 6.8967
+Found in database, id = 21936, area = 7.04074
+Found in database, id = 24768, area = 7.18015
+
+--- episode: 43 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 4957, area = 4.59126
+Found in database, id = 4760, area = 4.62481
+Found in database, id = 17258, area = 4.5555
+Found in database, id = 645, area = 4.64044
+Found in database, id = 32424, area = 4.60198
+Found in database, id = 27612, area = 4.61159
+Found in database, id = 51619, area = 4.62142
+Found in database, id = 49085, area = 4.81552
+Found in database, id = 15866, area = 4.81552
+Found in database, id = 78863, area = 4.9192
+Found in database, id = 107359, area = 5.05463
+Found in database, id = 24133, area = 5.98279
+Found in database, id = 107647, area = 6.45374
+Found in database, id = 24134, area = 6.53928
+Found in database, id = 24135, area = 8.44059
+
+--- episode: 44 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4255, area = 4.46806
+Found in database, id = 13358, area = 4.52444
+Found in database, id = 13359, area = 4.62813
+Found in database, id = 4834, area = 4.6273
+Found in database, id = 13437, area = 4.85425
+Found in database, id = 13301, area = 4.89083
+Found in database, id = 42971, area = 5.06804
+Found in database, id = 7216, area = 5.08368
+Found in database, id = 16995, area = 5.49857
+Found in database, id = 20989, area = 5.56653
+Found in database, id = 23487, area = 5.89884
+Found in database, id = 23488, area = 6.90308
+Found in database, id = 22179, area = 7.01898
+Found in database, id = 21695, area = 7.01898
+Found in database, id = 25188, area = 7.15838
+Found in database, id = 26804, area = 9.18876
+
+--- episode: 45 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 5123, area = 4.48084
+Found in database, id = 5708, area = 4.41014
+Found in database, id = 7295, area = 4.7064
+Found in database, id = 12535, area = 4.81009
+Found in database, id = 607, area = 5.20392
+Found in database, id = 3546, area = 5.22122
+Found in database, id = 583, area = 5.32491
+Found in database, id = 6226, area = 5.16962
+Found in database, id = 23861, area = 5.20621
+Found in database, id = 23862, area = 5.40031
+Found in database, id = 49038, area = 5.74622
+Found in database, id = 25478, area = 5.93946
+Found in database, id = 25480, area = 6.9437
+Found in database, id = 21761, area = 7.0596
+Found in database, id = 22733, area = 7.0596
+Found in database, id = 25316, area = 7.19901
+
+--- episode: 46 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4255, area = 4.46806
+Found in database, id = 4957, area = 4.59126
+Found in database, id = 29, area = 4.60689
+Found in database, id = 7230, area = 4.54145
+Found in database, id = 13487, area = 4.55128
+Found in database, id = 6921, area = 4.65496
+Found in database, id = 13653, area = 4.79039
+Found in database, id = 2772, area = 5.25078
+Found in database, id = 2756, area = 5.35447
+Found in database, id = 3789, area = 5.25078
+Found in database, id = 3581, area = 5.28433
+Found in database, id = 30933, area = 5.23473
+Found in database, id = 30935, area = 5.42882
+Found in database, id = 43332, area = 5.51436
+Found in database, id = 31090, area = 6.44251
+Found in database, id = 54459, area = 8.34383
+
+--- episode: 47 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5022, area = 4.42812
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 28, area = 4.46327
+Found in database, id = 29, area = 4.60689
+Found in database, id = 132, area = 4.84601
+Found in database, id = 1630, area = 4.94969
+Found in database, id = 1848, area = 4.84601
+Found in database, id = 2603, area = 5.73841
+Found in database, id = 13211, area = 5.69995
+Found in database, id = 13212, area = 5.8829
+Found in database, id = 23074, area = 6.25708
+Found in database, id = 42221, area = 6.34262
+Found in database, id = 23253, area = 6.41191
+Found in database, id = 24091, area = 8.31323
+
+--- episode: 48 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4255, area = 4.46806
+Found in database, id = 4412, area = 4.5016
+Found in database, id = 80, area = 4.51723
+Found in database, id = 4390, area = 4.53231
+Found in database, id = 4427, area = 4.54782
+Found in database, id = 5710, area = 4.58732
+Found in database, id = 6291, area = 4.5968
+Found in database, id = 6602, area = 4.5968
+Found in database, id = 29445, area = 4.6334
+Found in database, id = 48936, area = 4.83303
+Found in database, id = 13575, area = 5.12929
+Found in database, id = 29313, area = 5.54418
+Found in database, id = 48937, area = 5.62972
+Found in database, id = 23279, area = 5.69768
+Found in database, id = 22799, area = 6.70191
+Found in database, id = 23970, area = 7.08494
+Found in database, id = 26812, area = 7.22434
+
+--- episode: 49 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 11998, area = 4.67708
+Found in database, id = 11999, area = 4.8207
+Found in database, id = 13437, area = 4.85425
+Found in database, id = 13301, area = 4.89083
+Found in database, id = 42971, area = 5.06804
+Found in database, id = 13508, area = 5.06804
+Found in database, id = 21719, area = 5.47936
+Found in database, id = 21720, area = 5.54732
+Found in database, id = 21721, area = 6.55156
+Found in database, id = 21722, area = 6.63708
+Found in database, id = 21563, area = 6.65272
+Found in database, id = 21564, area = 7.01541
+Found in database, id = 25179, area = 7.15481
+Found in database, id = 25200, area = 9.18519
+
+--- episode: 50 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4255, area = 4.46806
+Found in database, id = 4412, area = 4.5016
+Found in database, id = 4860, area = 4.56956
+Found in database, id = 81, area = 4.58519
+Found in database, id = 11393, area = 4.51975
+Found in database, id = 11402, area = 4.52958
+Found in database, id = 9030, area = 5.53381
+Found in database, id = 11423, area = 5.64007
+Found in database, id = 5717, area = 5.5433
+Found in database, id = 5718, area = 5.669
+Found in database, id = 23302, area = 5.7056
+Found in database, id = 13547, area = 6.00186
+Found in database, id = 21519, area = 6.41318
+Found in database, id = 21520, area = 6.6128
+Found in database, id = 21521, area = 6.69834
+Found in database, id = 23946, area = 6.69834
+Found in database, id = 23947, area = 7.08137
+Found in database, id = 25183, area = 7.22077
+
+--- episode: 51 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5174, area = 4.45013
+Found in database, id = 8104, area = 4.6848
+Found in database, id = 13442, area = 4.82842
+Found in database, id = 14190, area = 5.72083
+Found in database, id = 13444, area = 5.75741
+Found in database, id = 13769, area = 5.75741
+Found in database, id = 22744, area = 6.16458
+Found in database, id = 22745, area = 6.34179
+Found in database, id = 74390, area = 6.66708
+Found in database, id = 51641, area = 6.73638
+Found in database, id = 107648, area = 8.63769
+
+--- episode: 52 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 273, area = 4.7771
+Found in database, id = 1642, area = 4.88078
+Found in database, id = 915, area = 4.7944
+Found in database, id = 742, area = 4.95427
+Found in database, id = 13403, area = 4.91034
+Found in database, id = 13404, area = 4.9783
+Found in database, id = 13405, area = 5.98253
+Found in database, id = 21753, area = 6.39386
+Found in database, id = 7220, area = 6.58227
+Found in database, id = 21754, area = 6.66781
+Found in database, id = 21737, area = 6.66781
+Found in database, id = 21738, area = 7.03717
+Found in database, id = 25180, area = 7.17658
+
+--- episode: 53 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5174, area = 4.45013
+Found in database, id = 13358, area = 4.52444
+Found in database, id = 120, area = 4.60938
+Found in database, id = 213, area = 5.50179
+Found in database, id = 907, area = 5.50179
+Found in database, id = 33490, area = 5.46333
+Found in database, id = 13581, area = 5.75959
+Found in database, id = 13582, area = 5.94253
+Found in database, id = 28793, area = 7.76466
+
+--- episode: 54 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4909, area = 4.45882
+Found in database, id = 4270, area = 4.37064
+Found in database, id = 4602, area = 4.49385
+Found in database, id = 13487, area = 4.55128
+Found in database, id = 13517, area = 4.58482
+Found in database, id = 916, area = 4.96978
+Found in database, id = 13708, area = 4.92017
+Found in database, id = 13338, area = 4.98813
+Found in database, id = 13941, area = 5.99237
+Found in database, id = 21759, area = 6.40369
+Found in database, id = 21760, area = 6.59778
+Found in database, id = 17561, area = 6.68332
+Found in database, id = 22732, area = 6.68332
+Found in database, id = 22733, area = 7.0596
+Found in database, id = 25316, area = 7.19901
+
+--- episode: 55 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4411, area = 4.34173
+Found in database, id = 4412, area = 4.5016
+Found in database, id = 4860, area = 4.56956
+Found in database, id = 13307, area = 4.60394
+Found in database, id = 7984, area = 4.62346
+Found in database, id = 21946, area = 4.62346
+Found in database, id = 15695, area = 4.92221
+Found in database, id = 13481, area = 4.95879
+Found in database, id = 13696, area = 4.96869
+Found in database, id = 14086, area = 4.9783
+Found in database, id = 21696, area = 5.39319
+Found in database, id = 21697, area = 5.58161
+Found in database, id = 21698, area = 5.66714
+Found in database, id = 21699, area = 6.67138
+Found in database, id = 21700, area = 7.04074
+Found in database, id = 25189, area = 7.18015
+
+--- episode: 56 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5022, area = 4.42812
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 273, area = 4.7771
+Found in database, id = 1642, area = 4.88078
+Found in database, id = 7295, area = 4.7064
+Found in database, id = 12535, area = 4.81009
+Found in database, id = 6393, area = 4.71589
+Found in database, id = 9670, area = 4.81958
+Found in database, id = 6394, area = 4.73319
+Found in database, id = 12943, area = 5.14451
+Found in database, id = 12667, area = 5.2482
+Found in database, id = 12965, area = 5.30438
+Found in database, id = 23739, area = 5.34098
+Found in database, id = 23125, area = 5.54061
+Found in database, id = 23985, area = 5.60857
+Found in database, id = 23944, area = 5.60857
+Found in database, id = 23945, area = 5.69411
+Found in database, id = 23946, area = 6.69834
+
+--- episode: 57 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 4957, area = 4.59126
+Found in database, id = 4760, area = 4.62481
+Found in database, id = 4761, area = 5.55296
+Found in database, id = 7985, area = 5.62769
+Found in database, id = 48950, area = 5.66428
+Found in database, id = 22406, area = 5.84148
+Found in database, id = 22877, area = 7.87186
+
+--- episode: 58 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4411, area = 4.34173
+Found in database, id = 2, area = 4.35736
+Found in database, id = 4389, area = 4.37244
+Found in database, id = 12568, area = 4.3956
+Found in database, id = 4390, area = 4.53231
+Found in database, id = 4427, area = 4.54782
+Found in database, id = 13517, area = 4.58482
+Found in database, id = 13897, area = 4.65278
+Found in database, id = 3383, area = 5.03774
+Found in database, id = 13338, area = 4.98813
+Found in database, id = 23978, area = 5.39945
+Found in database, id = 23661, area = 5.59355
+Found in database, id = 25478, area = 5.93946
+Found in database, id = 25480, area = 6.9437
+Found in database, id = 21761, area = 7.0596
+Found in database, id = 22733, area = 7.0596
+Found in database, id = 25316, area = 7.19901
+
+--- episode: 59 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4389, area = 4.37244
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 1338, area = 4.73476
+Found in database, id = 1628, area = 4.76935
+Found in database, id = 14047, area = 4.72543
+Found in database, id = 13893, area = 4.91866
+Found in database, id = 14090, area = 4.9285
+Found in database, id = 13898, area = 5.93273
+Found in database, id = 14015, area = 5.94222
+Found in database, id = 21519, area = 6.41318
+Found in database, id = 21520, area = 6.6128
+Found in database, id = 21521, area = 6.69834
+Found in database, id = 23946, area = 6.69834
+Found in database, id = 23947, area = 7.08137
+Found in database, id = 25183, area = 7.22077
+
+--- episode: 60 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4411, area = 4.34173
+Found in database, id = 5175, area = 4.46743
+Found in database, id = 4834, area = 4.6273
+Found in database, id = 121, area = 4.64293
+Found in database, id = 5125, area = 4.65801
+Found in database, id = 5126, area = 5.58616
+Found in database, id = 1704, area = 5.88242
+Found in database, id = 13357, area = 5.83849
+Found in database, id = 13807, area = 5.84832
+Found in database, id = 13808, area = 5.84832
+Found in database, id = 13809, area = 6.04242
+Found in database, id = 13425, area = 6.05744
+Found in database, id = 22797, area = 6.47233
+Found in database, id = 22798, area = 6.55787
+Found in database, id = 22799, area = 6.70191
+Found in database, id = 23970, area = 7.08494
+Found in database, id = 26812, area = 7.22434
+
+--- episode: 61 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 28, area = 4.46327
+Found in database, id = 29, area = 4.60689
+Found in database, id = 30, area = 5.49929
+Found in database, id = 2687, area = 5.73841
+Found in database, id = 11696, area = 5.69995
+Found in database, id = 11674, area = 5.70956
+Found in database, id = 24139, area = 6.08375
+Found in database, id = 24140, area = 6.27217
+Found in database, id = 24124, area = 6.27217
+Found in database, id = 48953, area = 6.3577
+Found in database, id = 21601, area = 6.427
+Found in database, id = 15071, area = 6.427
+Found in database, id = 48954, area = 6.57104
+Found in database, id = 21603, area = 6.94041
+Found in database, id = 23599, area = 7.07981
+
+--- episode: 62 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 5123, area = 4.48084
+Found in database, id = 273, area = 4.7771
+Found in database, id = 234, area = 5.18842
+Found in database, id = 517, area = 5.33204
+Found in database, id = 1427, area = 6.22444
+Found in database, id = 23637, area = 6.18052
+Found in database, id = 48955, area = 6.36893
+Found in database, id = 22435, area = 6.43823
+Found in database, id = 7277, area = 8.33954
+
+--- episode: 63 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 28, area = 4.46327
+Found in database, id = 233, area = 4.70239
+Found in database, id = 1165, area = 5.07657
+Found in database, id = 2655, area = 5.18026
+Found in database, id = 1280, area = 5.09387
+Found in database, id = 925, area = 5.25375
+Found in database, id = 21499, area = 5.21529
+Found in database, id = 23004, area = 5.39823
+Found in database, id = 22023, area = 5.39823
+Found in database, id = 30895, area = 5.48376
+Found in database, id = 45483, area = 5.48376
+Found in database, id = 23254, area = 6.41191
+Found in database, id = 23167, area = 6.55596
+Found in database, id = 22027, area = 6.91864
+Found in database, id = 22028, area = 7.05805
+Found in database, id = 50339, area = 9.08842
+
+--- episode: 64 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5022, area = 4.42812
+Found in database, id = 5174, area = 4.45013
+Found in database, id = 13159, area = 4.4845
+Found in database, id = 11998, area = 4.67708
+Found in database, id = 11999, area = 4.8207
+Found in database, id = 358, area = 4.90565
+Found in database, id = 243, area = 5.00933
+Found in database, id = 774, area = 4.90565
+Found in database, id = 2078, area = 5.31697
+Found in database, id = 2720, area = 6.20937
+Found in database, id = 23149, area = 6.17091
+Found in database, id = 22282, area = 6.35385
+Found in database, id = 48978, area = 6.43938
+Found in database, id = 52980, area = 8.26152
+
+--- episode: 65 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5022, area = 4.42812
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 12333, area = 4.48201
+Found in database, id = 19464, area = 4.48733
+Found in database, id = 4957, area = 4.59126
+Found in database, id = 4760, area = 4.62481
+Found in database, id = 4761, area = 5.55296
+Found in database, id = 10120, area = 5.72277
+Found in database, id = 11876, area = 5.75935
+Found in database, id = 13754, area = 5.76925
+Found in database, id = 4967, area = 7.75928
+
+--- episode: 66 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4411, area = 4.34173
+Found in database, id = 4412, area = 4.5016
+Found in database, id = 4834, area = 4.6273
+Found in database, id = 104335, area = 4.72149
+Found in database, id = 16231, area = 4.77178
+Found in database, id = 16605, area = 4.77178
+Found in database, id = 15458, area = 4.83974
+Found in database, id = 28927, area = 4.83974
+Found in database, id = 19856, area = 5.14372
+Found in database, id = 63905, area = 6.14796
+Found in database, id = 26889, area = 6.55513
+Found in database, id = 26890, area = 6.64065
+Found in database, id = 73274, area = 8.67103
+
+--- episode: 67 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4389, area = 4.37244
+Found in database, id = 4390, area = 4.53231
+Found in database, id = 4427, area = 4.54782
+Found in database, id = 4428, area = 5.47597
+Found in database, id = 8445, area = 5.49345
+Found in database, id = 5133, area = 5.49098
+Found in database, id = 5717, area = 5.5433
+Found in database, id = 5718, area = 5.669
+Found in database, id = 23302, area = 5.7056
+Found in database, id = 8916, area = 5.90522
+Found in database, id = 23094, area = 6.20148
+Found in database, id = 21520, area = 6.6128
+Found in database, id = 21521, area = 6.69834
+Found in database, id = 23946, area = 6.69834
+Found in database, id = 23947, area = 7.08137
+Found in database, id = 25183, area = 7.22077
+
+--- episode: 68 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5174, area = 4.45013
+Found in database, id = 65, area = 4.46576
+Found in database, id = 66, area = 4.76202
+Found in database, id = 376, area = 4.86571
+Found in database, id = 358, area = 4.90565
+Found in database, id = 1834, area = 5.32054
+Found in database, id = 1195, area = 5.42422
+Found in database, id = 863, area = 5.35408
+Found in database, id = 21909, area = 5.31563
+Found in database, id = 16995, area = 5.49857
+Found in database, id = 16996, area = 6.42672
+Found in database, id = 22182, area = 6.57076
+Found in database, id = 22178, area = 6.65629
+Found in database, id = 21694, area = 6.65629
+Found in database, id = 21695, area = 7.01898
+Found in database, id = 25188, area = 7.15838
+Found in database, id = 25189, area = 7.18015
+
+--- episode: 69 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4411, area = 4.34173
+Found in database, id = 5204, area = 4.46494
+Found in database, id = 13446, area = 4.69438
+Found in database, id = 13797, area = 4.72897
+Found in database, id = 13798, area = 4.76556
+Found in database, id = 15290, area = 5.18045
+Found in database, id = 43679, area = 5.35765
+Found in database, id = 14837, area = 5.35765
+Found in database, id = 25736, area = 5.68295
+Found in database, id = 23363, area = 5.87619
+Found in database, id = 23364, area = 6.88042
+Found in database, id = 21714, area = 6.99632
+Found in database, id = 21715, area = 7.13572
+Found in database, id = 25188, area = 7.15838
+Found in database, id = 25189, area = 7.18015
+
+--- episode: 70 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5022, area = 4.42812
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4909, area = 4.45882
+Found in database, id = 4270, area = 4.37064
+Found in database, id = 5708, area = 4.41014
+Found in database, id = 7295, area = 4.7064
+Found in database, id = 13151, area = 4.85003
+Found in database, id = 12549, area = 4.95371
+Found in database, id = 2160, area = 5.35112
+Found in database, id = 4558, area = 5.4548
+Found in database, id = 2330, area = 5.38467
+Found in database, id = 21506, area = 5.33506
+Found in database, id = 21507, area = 5.52916
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21809, area = 5.94303
+Found in database, id = 22405, area = 6.94727
+Found in database, id = 21597, area = 7.06317
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 71 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 28, area = 4.46327
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13896, area = 4.64296
+Found in database, id = 13964, area = 5.64719
+Found in database, id = 48912, area = 5.68378
+Found in database, id = 37563, area = 5.69361
+Found in database, id = 48974, area = 5.88771
+Found in database, id = 48975, area = 6.18646
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 72 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4411, area = 4.34173
+Found in database, id = 5175, area = 4.46743
+Found in database, id = 13446, area = 4.69438
+Found in database, id = 13437, area = 4.85425
+Found in database, id = 13301, area = 4.89083
+Found in database, id = 13272, area = 5.81899
+Found in database, id = 13428, area = 5.96303
+Found in database, id = 21617, area = 6.37435
+Found in database, id = 22702, area = 6.38425
+Found in database, id = 7219, area = 6.56719
+Found in database, id = 21989, area = 6.65272
+Found in database, id = 21563, area = 6.65272
+Found in database, id = 21564, area = 7.01541
+Found in database, id = 25179, area = 7.15481
+Found in database, id = 25180, area = 7.17658
+
+--- episode: 73 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 273, area = 4.7771
+Found in database, id = 234, area = 5.18842
+Found in database, id = 517, area = 5.33204
+Found in database, id = 1925, area = 5.36559
+Found in database, id = 21914, area = 5.32166
+Found in database, id = 15490, area = 5.51008
+Found in database, id = 22514, area = 5.51008
+Found in database, id = 34020, area = 5.59561
+Found in database, id = 22755, area = 5.66357
+Found in database, id = 21737, area = 6.66781
+Found in database, id = 21738, area = 7.03717
+Found in database, id = 25180, area = 7.17658
+
+--- episode: 74 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4255, area = 4.46806
+Found in database, id = 79, area = 4.48369
+Found in database, id = 4266, area = 4.49876
+Found in database, id = 4390, area = 4.53231
+Found in database, id = 5125, area = 4.65801
+Found in database, id = 5126, area = 5.58616
+Found in database, id = 2973, area = 5.89014
+Found in database, id = 14263, area = 5.84621
+Found in database, id = 23645, area = 6.44036
+Found in database, id = 23646, area = 6.62878
+Found in database, id = 23235, area = 6.77282
+Found in database, id = 23236, area = 6.85836
+Found in database, id = 21658, area = 6.85836
+Found in database, id = 21659, area = 7.22772
+Found in database, id = 25208, area = 7.36713
+
+--- episode: 75 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5022, area = 4.42812
+Found in database, id = 5174, area = 4.45013
+Found in database, id = 11998, area = 4.67708
+Found in database, id = 13446, area = 4.69438
+Found in database, id = 850, area = 4.77932
+Found in database, id = 5, area = 4.81391
+Found in database, id = 13791, area = 4.77546
+Found in database, id = 13703, area = 4.77546
+Found in database, id = 16944, area = 5.18678
+Found in database, id = 21944, area = 5.36972
+Found in database, id = 29485, area = 5.45525
+Found in database, id = 21562, area = 5.64849
+Found in database, id = 23082, area = 5.64849
+Found in database, id = 22685, area = 6.65272
+Found in database, id = 22653, area = 7.01541
+Found in database, id = 25392, area = 7.15481
+Found in database, id = 24763, area = 7.17658
+
+--- episode: 76 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4411, area = 4.34173
+Found in database, id = 2, area = 4.35736
+Found in database, id = 4389, area = 4.37244
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13251, area = 4.42495
+Found in database, id = 12578, area = 4.52864
+Found in database, id = 7296, area = 4.7237
+Found in database, id = 7168, area = 5.13859
+Found in database, id = 3166, area = 5.25939
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21809, area = 5.94303
+Found in database, id = 22405, area = 6.94727
+Found in database, id = 21597, area = 7.06317
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 77 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 5123, area = 4.48084
+Found in database, id = 5708, area = 4.41014
+Found in database, id = 12575, area = 4.51383
+Found in database, id = 13150, area = 4.55377
+Found in database, id = 7944, area = 4.65745
+Found in database, id = 13151, area = 4.85003
+Found in database, id = 2160, area = 5.35112
+Found in database, id = 2330, area = 5.38467
+Found in database, id = 21506, area = 5.33506
+Found in database, id = 21507, area = 5.52916
+Found in database, id = 26967, area = 5.87507
+Found in database, id = 21809, area = 5.94303
+Found in database, id = 21810, area = 5.94303
+Found in database, id = 21811, area = 6.05894
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 78 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5022, area = 4.42812
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 10117, area = 4.61744
+Found in database, id = 233, area = 4.70239
+Found in database, id = 132, area = 4.84601
+Found in database, id = 359, area = 5.31697
+Found in database, id = 1573, area = 5.35051
+Found in database, id = 21898, area = 5.31206
+Found in database, id = 15489, area = 5.495
+Found in database, id = 21825, area = 6.42315
+Found in database, id = 21826, area = 6.42315
+Found in database, id = 21827, area = 6.50868
+Found in database, id = 22693, area = 6.50868
+Found in database, id = 23049, area = 6.87137
+Found in database, id = 21919, area = 6.89313
+Found in database, id = 22436, area = 7.03717
+Found in database, id = 24763, area = 7.17658
+
+--- episode: 79 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 10117, area = 4.61744
+Found in database, id = 15980, area = 5.0884
+Found in database, id = 16876, area = 5.19209
+Found in database, id = 17249, area = 5.23202
+Found in database, id = 21266, area = 6.12443
+Found in database, id = 22262, area = 6.16101
+Found in database, id = 28366, area = 7.98314
+
+--- episode: 80 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5174, area = 4.45013
+Found in database, id = 11998, area = 4.67708
+Found in database, id = 13182, area = 4.78077
+Found in database, id = 16306, area = 5.09197
+Found in database, id = 15755, area = 5.10927
+Found in database, id = 21338, area = 5.26914
+Found in database, id = 21690, area = 5.30573
+Found in database, id = 21843, area = 6.23388
+Found in database, id = 22284, area = 6.41108
+Found in database, id = 7452, area = 8.3124
+
+--- episode: 81 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4411, area = 4.34173
+Found in database, id = 5373, area = 4.44542
+Found in database, id = 5204, area = 4.46494
+Found in database, id = 13196, area = 4.49931
+Found in database, id = 15524, area = 4.39563
+Found in database, id = 17258, area = 4.5555
+Found in database, id = 107515, area = 4.71899
+Found in database, id = 7879, area = 4.76929
+Found in database, id = 13227, area = 5.00841
+Found in database, id = 13333, area = 5.02404
+Found in database, id = 23048, area = 5.495
+Found in database, id = 36265, area = 5.58053
+Found in database, id = 21827, area = 6.50868
+Found in database, id = 21563, area = 6.65272
+Found in database, id = 21564, area = 7.01541
+Found in database, id = 25179, area = 7.15481
+Found in database, id = 25180, area = 7.17658
+
+--- episode: 82 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4255, area = 4.46806
+Found in database, id = 4412, area = 4.5016
+Found in database, id = 80, area = 4.51723
+Found in database, id = 4390, area = 4.53231
+Found in database, id = 4427, area = 4.54782
+Found in database, id = 4428, area = 5.47597
+Found in database, id = 9030, area = 5.53381
+Found in database, id = 9031, area = 5.65702
+Found in database, id = 37563, area = 5.69361
+Found in database, id = 23889, area = 5.7031
+Found in database, id = 13547, area = 6.00186
+Found in database, id = 49031, area = 6.41675
+Found in database, id = 26899, area = 6.61637
+Found in database, id = 23902, area = 6.70191
+Found in database, id = 22799, area = 6.70191
+Found in database, id = 23970, area = 7.08494
+Found in database, id = 26812, area = 7.22434
+
+--- episode: 83 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 4602, area = 4.49385
+Found in database, id = 6141, area = 4.64677
+Found in database, id = 1608, area = 5.10716
+Found in database, id = 2728, area = 5.21084
+Found in database, id = 2772, area = 5.25078
+Found in database, id = 2767, area = 5.28433
+Found in database, id = 23960, area = 5.23473
+Found in database, id = 43331, area = 5.42882
+Found in database, id = 43346, area = 5.77473
+Found in database, id = 54457, area = 5.84269
+Found in database, id = 54458, area = 6.84693
+Found in database, id = 23885, area = 6.96284
+Found in database, id = 23047, area = 6.96284
+Found in database, id = 24287, area = 7.10224
+
+--- episode: 84 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 5204, area = 4.46494
+Found in database, id = 7983, area = 4.43022
+Found in database, id = 18476, area = 4.43022
+Found in database, id = 21946, area = 4.62346
+Found in database, id = 15695, area = 4.92221
+Found in database, id = 13481, area = 4.95879
+Found in database, id = 22470, area = 5.37011
+Found in database, id = 16950, area = 5.38001
+Found in database, id = 16940, area = 5.56296
+Found in database, id = 21562, area = 5.64849
+Found in database, id = 21563, area = 6.65272
+Found in database, id = 21564, area = 7.01541
+Found in database, id = 25179, area = 7.15481
+Found in database, id = 25180, area = 7.17658
+
+--- episode: 85 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 28, area = 4.46327
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 4602, area = 4.49385
+Found in database, id = 13487, area = 4.55128
+Found in database, id = 13517, area = 4.58482
+Found in database, id = 105698, area = 4.76521
+Found in database, id = 24375, area = 4.81552
+Found in database, id = 23660, area = 5.05463
+Found in database, id = 20710, area = 5.12259
+Found in database, id = 14092, area = 5.12259
+Found in database, id = 22242, area = 5.59355
+Found in database, id = 22243, area = 5.67909
+Found in database, id = 21855, area = 5.67909
+Found in database, id = 21856, area = 6.68332
+Found in database, id = 24034, area = 7.0596
+Found in database, id = 25456, area = 7.19901
+
+--- episode: 86 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4411, area = 4.34173
+Found in database, id = 2, area = 4.35736
+Found in database, id = 4389, area = 4.37244
+Found in database, id = 12568, area = 4.3956
+Found in database, id = 4390, area = 4.53231
+Found in database, id = 4427, area = 4.54782
+Found in database, id = 5710, area = 4.58732
+Found in database, id = 916, area = 4.96978
+Found in database, id = 13708, area = 4.92017
+Found in database, id = 22293, area = 5.11427
+Found in database, id = 23987, area = 5.52559
+Found in database, id = 23587, area = 6.45374
+Found in database, id = 21760, area = 6.59778
+Found in database, id = 17561, area = 6.68332
+Found in database, id = 22732, area = 6.68332
+Found in database, id = 22733, area = 7.0596
+Found in database, id = 25316, area = 7.19901
+
+--- episode: 87 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5174, area = 4.45013
+Found in database, id = 11998, area = 4.67708
+Found in database, id = 13182, area = 4.78077
+Found in database, id = 13446, area = 4.69438
+Found in database, id = 17231, area = 5.1057
+Found in database, id = 21201, area = 5.20938
+Found in database, id = 21104, area = 5.26557
+Found in database, id = 21615, area = 5.30216
+Found in database, id = 26297, area = 5.47936
+Found in database, id = 22853, area = 6.40751
+Found in database, id = 5005, area = 6.40751
+Found in database, id = 21721, area = 6.55156
+Found in database, id = 21722, area = 6.63708
+Found in database, id = 23738, area = 8.66746
+
+--- episode: 88 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4909, area = 4.45882
+Found in database, id = 4270, area = 4.37064
+Found in database, id = 6762, area = 4.38813
+Found in database, id = 4602, area = 4.49385
+Found in database, id = 7295, area = 4.7064
+Found in database, id = 13151, area = 4.85003
+Found in database, id = 1730, area = 5.82863
+Found in database, id = 13522, area = 5.77903
+Found in database, id = 13561, area = 5.78852
+Found in database, id = 13562, area = 7.61065
+
+--- episode: 89 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 5123, area = 4.48084
+Found in database, id = 273, area = 4.7771
+Found in database, id = 234, area = 5.18842
+Found in database, id = 517, area = 5.33204
+Found in database, id = 1925, area = 5.36559
+Found in database, id = 21914, area = 5.32166
+Found in database, id = 15490, area = 5.51008
+Found in database, id = 22514, area = 5.51008
+Found in database, id = 34020, area = 5.59561
+Found in database, id = 22755, area = 5.66357
+Found in database, id = 21737, area = 6.66781
+Found in database, id = 21738, area = 7.03717
+Found in database, id = 25180, area = 7.17658
+
+--- episode: 90 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4909, area = 4.45882
+Found in database, id = 4270, area = 4.37064
+Found in database, id = 4271, area = 4.51427
+Found in database, id = 13150, area = 4.55377
+Found in database, id = 7944, area = 4.65745
+Found in database, id = 5710, area = 4.58732
+Found in database, id = 2613, area = 4.9775
+Found in database, id = 13246, area = 4.92789
+Found in database, id = 13247, area = 4.92789
+Found in database, id = 13248, area = 5.12199
+Found in database, id = 13555, area = 5.13701
+Found in database, id = 50389, area = 5.73116
+Found in database, id = 50390, area = 5.8167
+Found in database, id = 54425, area = 6.74485
+Found in database, id = 54426, area = 8.64617
+
+--- episode: 91 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5174, area = 4.45013
+Found in database, id = 13159, area = 4.4845
+Found in database, id = 8104, area = 4.6848
+Found in database, id = 8105, area = 4.7021
+Found in database, id = 13912, area = 4.73669
+Found in database, id = 13777, area = 4.77328
+Found in database, id = 13725, area = 4.96651
+Found in database, id = 13924, area = 4.96651
+Found in database, id = 13998, area = 5.97075
+Found in database, id = 13999, area = 8.00112
+
+--- episode: 92 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4411, area = 4.34173
+Found in database, id = 5373, area = 4.44542
+Found in database, id = 4412, area = 4.5016
+Found in database, id = 7481, area = 4.53598
+Found in database, id = 80, area = 4.51723
+Found in database, id = 4390, area = 4.53231
+Found in database, id = 4427, area = 4.54782
+Found in database, id = 13517, area = 4.58482
+Found in database, id = 22718, area = 4.58482
+Found in database, id = 51619, area = 4.62142
+Found in database, id = 49085, area = 4.81552
+Found in database, id = 15866, area = 4.81552
+Found in database, id = 107649, area = 5.74367
+Found in database, id = 26289, area = 5.84735
+Found in database, id = 107650, area = 7.64498
+
+--- episode: 93 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4411, area = 4.34173
+Found in database, id = 5373, area = 4.44542
+Found in database, id = 5204, area = 4.46494
+Found in database, id = 4760, area = 4.62481
+Found in database, id = 7984, area = 4.62346
+Found in database, id = 7985, area = 5.62769
+Found in database, id = 48950, area = 5.66428
+Found in database, id = 22406, area = 5.84148
+Found in database, id = 13274, area = 6.14024
+Found in database, id = 22149, area = 6.55513
+Found in database, id = 22150, area = 6.64065
+Found in database, id = 14840, area = 6.64065
+Found in database, id = 21694, area = 6.65629
+Found in database, id = 21695, area = 7.01898
+Found in database, id = 25188, area = 7.15838
+Found in database, id = 25189, area = 7.18015
+
+--- episode: 94 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 11998, area = 4.67708
+Found in database, id = 66, area = 4.76202
+Found in database, id = 358, area = 4.90565
+Found in database, id = 274, area = 4.92072
+Found in database, id = 244, area = 5.02441
+Found in database, id = 13151, area = 4.85003
+Found in database, id = 1730, area = 5.82863
+Found in database, id = 13522, area = 5.77903
+Found in database, id = 23585, area = 6.19035
+Found in database, id = 49013, area = 6.38445
+Found in database, id = 49037, area = 8.20658
+
+--- episode: 95 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5022, area = 4.42812
+Found in database, id = 4703, area = 4.32443
+Found in database, id = 5314, area = 4.34006
+Found in database, id = 4572, area = 4.35514
+Found in database, id = 4642, area = 4.47834
+Found in database, id = 4643, area = 4.49385
+Found in database, id = 17587, area = 4.42495
+Found in database, id = 14146, area = 4.52864
+Found in database, id = 22777, area = 4.45955
+Found in database, id = 25571, area = 4.49614
+Found in database, id = 13365, area = 4.79489
+Found in database, id = 13366, area = 4.98899
+Found in database, id = 24411, area = 5.40031
+Found in database, id = 27303, area = 5.48585
+Found in database, id = 22243, area = 5.67909
+Found in database, id = 22732, area = 6.68332
+Found in database, id = 22733, area = 7.0596
+Found in database, id = 25316, area = 7.19901
+
+--- episode: 96 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 28, area = 4.46327
+Found in database, id = 29, area = 4.60689
+Found in database, id = 7230, area = 4.54145
+Found in database, id = 274, area = 4.92072
+Found in database, id = 13151, area = 4.85003
+Found in database, id = 2160, area = 5.35112
+Found in database, id = 1731, area = 6.24352
+Found in database, id = 25450, area = 6.19392
+Found in database, id = 36817, area = 6.38801
+Found in database, id = 25454, area = 6.38801
+Found in database, id = 36818, area = 6.47355
+Found in database, id = 107651, area = 8.29568
+
+--- episode: 97 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5022, area = 4.42812
+Found in database, id = 4411, area = 4.34173
+Found in database, id = 5373, area = 4.44542
+Found in database, id = 5175, area = 4.46743
+Found in database, id = 13446, area = 4.69438
+Found in database, id = 13437, area = 4.85425
+Found in database, id = 13301, area = 4.89083
+Found in database, id = 13230, area = 4.95879
+Found in database, id = 13605, area = 4.96869
+Found in database, id = 13404, area = 4.9783
+Found in database, id = 13405, area = 5.98253
+Found in database, id = 21753, area = 6.39386
+Found in database, id = 7220, area = 6.58227
+Found in database, id = 21754, area = 6.66781
+Found in database, id = 21737, area = 6.66781
+Found in database, id = 21738, area = 7.03717
+Found in database, id = 25180, area = 7.17658
+
+--- episode: 98 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4255, area = 4.46806
+Found in database, id = 4256, area = 5.36046
+Found in database, id = 5024, area = 5.46414
+Found in database, id = 4413, area = 5.42975
+Found in database, id = 4761, area = 5.55296
+Found in database, id = 7985, area = 5.62769
+Found in database, id = 48950, area = 5.66428
+Found in database, id = 22406, area = 5.84148
+Found in database, id = 13683, area = 6.0806
+Found in database, id = 56308, area = 6.4059
+Found in database, id = 56309, area = 6.42855
+Found in database, id = 56310, area = 8.45893
+
+--- episode: 99 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5022, area = 4.42812
+Found in database, id = 4255, area = 4.46806
+Found in database, id = 13358, area = 4.52444
+Found in database, id = 4588, area = 5.48616
+Found in database, id = 104405, area = 5.58034
+Found in database, id = 11464, area = 5.63064
+Found in database, id = 18325, area = 5.9269
+Found in database, id = 13194, area = 5.9269
+Found in database, id = 13195, area = 7.74903
+
+--- episode: 100 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4411, area = 4.34173
+Found in database, id = 5373, area = 4.44542
+Found in database, id = 18405, area = 4.38143
+Found in database, id = 4412, area = 4.5016
+Found in database, id = 4413, area = 5.42975
+Found in database, id = 4835, area = 5.55545
+Found in database, id = 144, area = 5.57108
+Found in database, id = 83, area = 5.71513
+Found in database, id = 50298, area = 5.67667
+Found in database, id = 23097, area = 5.85961
+Found in database, id = 7218, area = 6.15587
+Found in database, id = 7996, area = 8.18625
+
+--- episode: 101 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5022, area = 4.42812
+Found in database, id = 5174, area = 4.45013
+Found in database, id = 13159, area = 4.4845
+Found in database, id = 13358, area = 4.52444
+Found in database, id = 13359, area = 4.62813
+Found in database, id = 120, area = 4.60938
+Found in database, id = 13149, area = 4.54394
+Found in database, id = 5125, area = 4.65801
+Found in database, id = 5126, area = 5.58616
+Found in database, id = 5711, area = 5.51547
+Found in database, id = 11403, area = 5.65951
+Found in database, id = 42175, area = 5.69611
+Found in database, id = 13941, area = 5.99237
+Found in database, id = 23850, area = 6.40726
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 102 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4909, area = 4.45882
+Found in database, id = 4270, area = 4.37064
+Found in database, id = 4426, area = 4.38794
+Found in database, id = 4427, area = 4.54782
+Found in database, id = 5710, area = 4.58732
+Found in database, id = 2613, area = 4.9775
+Found in database, id = 13246, area = 4.92789
+Found in database, id = 32207, area = 5.12199
+Found in database, id = 21507, area = 5.52916
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 103 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5022, area = 4.42812
+Found in database, id = 5174, area = 4.45013
+Found in database, id = 5175, area = 4.46743
+Found in database, id = 4834, area = 4.6273
+Found in database, id = 11475, area = 4.62595
+Found in database, id = 11391, area = 5.63019
+Found in database, id = 18688, area = 5.66677
+Found in database, id = 50298, area = 5.67667
+Found in database, id = 13303, area = 5.97293
+Found in database, id = 22702, area = 6.38425
+Found in database, id = 7219, area = 6.56719
+Found in database, id = 21989, area = 6.65272
+Found in database, id = 21563, area = 6.65272
+Found in database, id = 21564, area = 7.01541
+Found in database, id = 25179, area = 7.15481
+Found in database, id = 25200, area = 9.18519
+
+--- episode: 104 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5174, area = 4.45013
+Found in database, id = 13159, area = 4.4845
+Found in database, id = 8104, area = 4.6848
+Found in database, id = 13792, area = 4.78849
+Found in database, id = 13442, area = 4.82842
+Found in database, id = 14190, area = 5.72083
+Found in database, id = 13444, area = 5.75741
+Found in database, id = 13769, area = 5.75741
+Found in database, id = 13935, area = 5.93462
+Found in database, id = 24137, area = 6.52877
+Found in database, id = 50361, area = 6.5444
+Found in database, id = 32478, area = 6.62993
+running McPAT ...
+running McPAT ...
+running McPAT ...
+Found in database, id = 28466, area = 7.08368
+Found in database, id = 21589, area = 7.22772
+Found in database, id = 28468, area = 7.36713
+
+--- episode: 105 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4411, area = 4.34173
+Found in database, id = 5204, area = 4.46494
+Found in database, id = 10118, area = 4.63474
+Found in database, id = 10119, area = 4.79462
+Found in database, id = 13225, area = 4.8312
+Found in database, id = 13299, area = 4.89916
+Found in database, id = 21616, area = 5.37011
+Found in database, id = 22656, area = 5.54732
+Found in database, id = 21618, area = 6.55156
+Found in database, id = 21619, area = 6.63708
+Found in database, id = 21722, area = 6.63708
+Found in database, id = 22854, area = 6.99275
+Found in database, id = 22855, area = 7.13215
+Found in database, id = 25412, area = 9.16253
+
+--- episode: 106 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4266, area = 4.49876
+Found in database, id = 4910, area = 4.60245
+Found in database, id = 4390, area = 4.53231
+Found in database, id = 4427, area = 4.54782
+Found in database, id = 8444, area = 4.5653
+Found in database, id = 5132, area = 4.56283
+Found in database, id = 5133, area = 5.49098
+Found in database, id = 6292, area = 5.52495
+Found in database, id = 14293, area = 5.82121
+Found in database, id = 13423, area = 5.85781
+Found in database, id = 13424, area = 5.85781
+Found in database, id = 13425, area = 6.05744
+Found in database, id = 25491, area = 6.46876
+Found in database, id = 25493, area = 6.5543
+running McPAT ...
+
+--- episode: 107 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5022, area = 4.42812
+Found in database, id = 4255, area = 4.46806
+Found in database, id = 13358, area = 4.52444
+Found in database, id = 4834, area = 4.6273
+Found in database, id = 13437, area = 4.85425
+Found in database, id = 13301, area = 4.89083
+Found in database, id = 13319, area = 4.89083
+Found in database, id = 13481, area = 4.95879
+Found in database, id = 13231, area = 5.136
+Found in database, id = 21720, area = 5.54732
+Found in database, id = 21721, area = 6.55156
+Found in database, id = 21722, area = 6.63708
+Found in database, id = 23738, area = 8.66746
+
+--- episode: 108 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4389, area = 4.37244
+Found in database, id = 13376, area = 4.32651
+Found in database, id = 13377, area = 4.45221
+Found in database, id = 13378, area = 4.46204
+Found in database, id = 104442, area = 4.64242
+Found in database, id = 30483, area = 4.69273
+Found in database, id = 23974, area = 4.98899
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 49036, area = 5.74979
+Found in database, id = 50400, area = 5.74979
+Found in database, id = 29384, area = 5.8657
+Found in database, id = 49012, area = 5.8657
+Found in database, id = 21812, area = 6.05894
+Found in database, id = 23821, area = 7.06317
+Found in database, id = 25448, area = 7.20258
+
+--- episode: 109 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 5204, area = 4.46494
+Found in database, id = 4760, area = 4.62481
+Found in database, id = 316, area = 4.64044
+Found in database, id = 843, area = 5.56859
+Found in database, id = 7434, area = 5.50315
+Found in database, id = 23600, area = 5.50315
+Found in database, id = 74452, area = 5.53974
+Found in database, id = 51608, area = 5.72816
+Found in database, id = 23226, area = 5.8722
+Found in database, id = 13407, area = 6.17095
+Found in database, id = 14128, area = 6.18646
+Found in database, id = 27407, area = 6.53237
+Found in database, id = 105060, area = 6.94727
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 110 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5022, area = 4.42812
+Found in database, id = 4411, area = 4.34173
+Found in database, id = 5373, area = 4.44542
+Found in database, id = 18405, area = 4.38143
+Found in database, id = 4412, area = 4.5016
+Found in database, id = 7481, area = 4.53598
+Found in database, id = 4760, area = 4.62481
+Found in database, id = 17258, area = 4.5555
+Found in database, id = 17156, area = 4.79462
+Found in database, id = 13226, area = 4.8312
+Found in database, id = 13227, area = 5.00841
+Found in database, id = 21719, area = 5.47936
+Found in database, id = 21720, area = 5.54732
+Found in database, id = 17005, area = 5.87262
+Found in database, id = 22866, area = 6.87685
+Found in database, id = 22854, area = 6.99275
+Found in database, id = 22855, area = 7.13215
+Found in database, id = 25179, area = 7.15481
+Found in database, id = 25200, area = 9.18519
+
+--- episode: 111 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 4957, area = 4.59126
+Found in database, id = 4760, area = 4.62481
+Found in database, id = 316, area = 4.64044
+Found in database, id = 645, area = 4.64044
+Found in database, id = 32424, area = 4.60198
+Found in database, id = 27612, area = 4.61159
+Found in database, id = 18812, area = 4.8
+Found in database, id = 13874, area = 5.09876
+Found in database, id = 22514, area = 5.51008
+Found in database, id = 34020, area = 5.59561
+Found in database, id = 21917, area = 6.52376
+Found in database, id = 48917, area = 8.42508
+
+--- episode: 112 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4411, area = 4.34173
+Found in database, id = 5373, area = 4.44542
+Found in database, id = 7889, area = 4.30701
+Found in database, id = 13737, area = 4.43271
+Found in database, id = 4, area = 4.51765
+Found in database, id = 824, area = 4.71089
+Found in database, id = 83, area = 5.71513
+Found in database, id = 50298, area = 5.67667
+Found in database, id = 13619, area = 5.98065
+Found in database, id = 22181, area = 6.38782
+Found in database, id = 22182, area = 6.57076
+Found in database, id = 22178, area = 6.65629
+Found in database, id = 21694, area = 6.65629
+Found in database, id = 21695, area = 7.01898
+Found in database, id = 25188, area = 7.15838
+Found in database, id = 25189, area = 7.18015
+
+--- episode: 113 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5174, area = 4.45013
+Found in database, id = 11998, area = 4.67708
+Found in database, id = 13446, area = 4.69438
+Found in database, id = 13437, area = 4.85425
+Found in database, id = 13301, area = 4.89083
+Found in database, id = 13230, area = 4.95879
+Found in database, id = 13428, area = 5.96303
+Found in database, id = 13303, area = 5.97293
+Found in database, id = 22181, area = 6.38782
+Found in database, id = 22182, area = 6.57076
+Found in database, id = 22178, area = 6.65629
+Found in database, id = 21694, area = 6.65629
+Found in database, id = 21695, area = 7.01898
+Found in database, id = 25188, area = 7.15838
+Found in database, id = 25189, area = 7.18015
+
+--- episode: 114 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4255, area = 4.46806
+Found in database, id = 13358, area = 4.52444
+Found in database, id = 4588, area = 5.48616
+Found in database, id = 18798, area = 5.41685
+Found in database, id = 6461, area = 5.48614
+Found in database, id = 23085, area = 5.7824
+Found in database, id = 13320, area = 5.81899
+Found in database, id = 12451, area = 5.82889
+Found in database, id = 13922, area = 5.83849
+Found in database, id = 13808, area = 5.84832
+Found in database, id = 23601, area = 6.26321
+Found in database, id = 22294, area = 6.45731
+Found in database, id = 22295, area = 6.54285
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 115 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4909, area = 4.45882
+Found in database, id = 4270, area = 4.37064
+Found in database, id = 5708, area = 4.41014
+Found in database, id = 14755, area = 4.71413
+Found in database, id = 13886, area = 4.73142
+Found in database, id = 2613, area = 4.9775
+Found in database, id = 13246, area = 4.92789
+Found in database, id = 32207, area = 5.12199
+Found in database, id = 24032, area = 6.05014
+Found in database, id = 23311, area = 6.19418
+Found in database, id = 102590, area = 8.22456
+
+--- episode: 116 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5174, area = 4.45013
+Found in database, id = 13358, area = 4.52444
+Found in database, id = 11999, area = 4.8207
+Found in database, id = 12000, area = 5.71311
+Found in database, id = 12216, area = 5.74969
+Found in database, id = 18325, area = 5.9269
+Found in database, id = 13194, area = 5.9269
+Found in database, id = 22745, area = 6.34179
+Found in database, id = 29389, area = 6.41108
+Found in database, id = 22340, area = 6.42672
+Found in database, id = 22341, area = 6.51225
+Found in database, id = 17685, area = 6.51225
+Found in database, id = 21644, area = 6.87494
+Found in database, id = 21681, area = 7.01898
+Found in database, id = 26882, area = 7.15838
+Found in database, id = 24768, area = 7.18015
+
+--- episode: 117 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5022, area = 4.42812
+Found in database, id = 4703, area = 4.32443
+Found in database, id = 5826, area = 4.27242
+Found in database, id = 14939, area = 4.30701
+Found in database, id = 18476, area = 4.43022
+Found in database, id = 21946, area = 4.62346
+Found in database, id = 24019, area = 5.62769
+Found in database, id = 46323, area = 5.66428
+Found in database, id = 13482, area = 5.96303
+Found in database, id = 13903, area = 7.9934
+
+--- episode: 118 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4909, area = 4.45882
+Found in database, id = 4270, area = 4.37064
+Found in database, id = 5708, area = 4.41014
+Found in database, id = 13150, area = 4.55377
+Found in database, id = 13244, area = 4.85775
+Found in database, id = 12844, area = 5.4519
+Found in database, id = 10252, area = 5.48545
+Found in database, id = 22209, area = 5.52204
+Found in database, id = 51665, area = 5.71614
+Found in database, id = 51666, area = 6.06205
+Found in database, id = 51667, area = 6.9902
+Found in database, id = 7816, area = 8.89152
+
+--- episode: 119 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4411, area = 4.34173
+Found in database, id = 2, area = 4.35736
+Found in database, id = 4389, area = 4.37244
+Found in database, id = 12568, area = 4.3956
+Found in database, id = 4390, area = 4.53231
+Found in database, id = 7433, area = 4.575
+Found in database, id = 22717, area = 4.575
+Found in database, id = 27612, area = 4.61159
+Found in database, id = 13873, area = 4.91034
+Found in database, id = 13874, area = 5.09876
+Found in database, id = 23013, area = 5.51365
+Found in database, id = 51651, area = 5.59918
+Found in database, id = 15815, area = 5.59918
+Found in database, id = 21934, area = 5.66714
+Found in database, id = 21935, area = 6.03651
+Found in database, id = 21936, area = 7.04074
+Found in database, id = 24768, area = 7.18015
+
+--- episode: 120 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 12534, area = 4.50151
+Found in database, id = 698, area = 4.71746
+Found in database, id = 1338, area = 4.73476
+Found in database, id = 1628, area = 4.76935
+Found in database, id = 14047, area = 4.72543
+Found in database, id = 23295, area = 5.09962
+Found in database, id = 23060, area = 5.28803
+Found in database, id = 16914, area = 5.28803
+Found in database, id = 54420, area = 5.37357
+Found in database, id = 17202, area = 5.37357
+Found in database, id = 21702, area = 5.5668
+Found in database, id = 21703, area = 5.93617
+Found in database, id = 21603, area = 6.94041
+Found in database, id = 23599, area = 7.07981
+
+--- episode: 121 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4909, area = 4.45882
+Found in database, id = 4270, area = 4.37064
+Found in database, id = 4271, area = 4.51427
+Found in database, id = 13487, area = 4.55128
+Found in database, id = 13517, area = 4.58482
+Found in database, id = 22718, area = 4.58482
+Found in database, id = 51619, area = 4.62142
+Found in database, id = 13709, area = 4.92017
+Found in database, id = 13574, area = 4.92966
+Found in database, id = 13575, area = 5.12929
+Found in database, id = 13514, area = 5.19725
+Found in database, id = 9820, area = 5.61214
+Found in database, id = 23279, area = 5.69768
+Found in database, id = 22799, area = 6.70191
+Found in database, id = 23970, area = 7.08494
+Found in database, id = 26812, area = 7.22434
+
+--- episode: 122 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5022, area = 4.42812
+Found in database, id = 4411, area = 4.34173
+Found in database, id = 2, area = 4.35736
+Found in database, id = 4389, area = 4.37244
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13251, area = 4.42495
+Found in database, id = 6142, area = 4.66407
+Found in database, id = 8647, area = 4.69866
+Found in database, id = 13766, area = 4.73526
+Found in database, id = 20709, area = 4.92936
+Found in database, id = 20710, area = 5.12259
+Found in database, id = 23661, area = 5.59355
+Found in database, id = 25478, area = 5.93946
+Found in database, id = 26806, area = 5.93946
+Found in database, id = 26807, area = 6.05537
+Found in database, id = 22733, area = 7.0596
+Found in database, id = 25316, area = 7.19901
+
+--- episode: 123 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4266, area = 4.49876
+Found in database, id = 4390, area = 4.53231
+Found in database, id = 5125, area = 4.65801
+Found in database, id = 5126, area = 5.58616
+Found in database, id = 23485, area = 5.50564
+Found in database, id = 54408, area = 5.54223
+Found in database, id = 13922, area = 5.83849
+Found in database, id = 21915, area = 6.24981
+Found in database, id = 21916, area = 6.43823
+Found in database, id = 21917, area = 6.52376
+Found in database, id = 21918, area = 6.52376
+Found in database, id = 21919, area = 6.89313
+Found in database, id = 21920, area = 8.79444
+
+--- episode: 124 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 1338, area = 4.73476
+Found in database, id = 1339, area = 5.10895
+Found in database, id = 1842, area = 5.26882
+Found in database, id = 21895, area = 5.22489
+Found in database, id = 43330, area = 5.41331
+Found in database, id = 48998, area = 5.41331
+Found in database, id = 24416, area = 5.49885
+Found in database, id = 15070, area = 5.49885
+Found in database, id = 102004, area = 5.86821
+Found in database, id = 21602, area = 6.79636
+Found in database, id = 21603, area = 6.94041
+Found in database, id = 23599, area = 7.07981
+
+--- episode: 125 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4389, area = 4.37244
+Found in database, id = 4390, area = 4.53231
+Found in database, id = 7433, area = 4.575
+Found in database, id = 13517, area = 4.58482
+Found in database, id = 6143, area = 4.82394
+Found in database, id = 13950, area = 4.86054
+Found in database, id = 11727, area = 5.78869
+Found in database, id = 13655, area = 5.78869
+Found in database, id = 25489, area = 6.25964
+Found in database, id = 23588, area = 6.45374
+Found in database, id = 23589, area = 6.53928
+Found in database, id = 22732, area = 6.68332
+Found in database, id = 22733, area = 7.0596
+Found in database, id = 25316, area = 7.19901
+
+--- episode: 126 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4255, area = 4.46806
+Found in database, id = 79, area = 4.48369
+Found in database, id = 4266, area = 4.49876
+Found in database, id = 7230, area = 4.54145
+Found in database, id = 7433, area = 4.575
+Found in database, id = 533, area = 4.89463
+Found in database, id = 13892, area = 4.8507
+Found in database, id = 13893, area = 4.91866
+Found in database, id = 13894, area = 4.91866
+Found in database, id = 37741, area = 5.29285
+Found in database, id = 16915, area = 5.48127
+Found in database, id = 16916, area = 5.5668
+Found in database, id = 21702, area = 5.5668
+Found in database, id = 21703, area = 5.93617
+Found in database, id = 21603, area = 6.94041
+Found in database, id = 23599, area = 7.07981
+
+--- episode: 127 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 28, area = 4.46327
+Found in database, id = 99, area = 4.48057
+Found in database, id = 163, area = 4.51516
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13896, area = 4.64296
+Found in database, id = 1629, area = 4.96259
+Found in database, id = 13893, area = 4.91866
+Found in database, id = 13894, area = 4.91866
+Found in database, id = 13895, area = 5.10708
+Found in database, id = 16915, area = 5.48127
+Found in database, id = 16916, area = 5.5668
+Found in database, id = 21702, area = 5.5668
+Found in database, id = 21703, area = 5.93617
+Found in database, id = 21603, area = 6.94041
+Found in database, id = 23599, area = 7.07981
+
+--- episode: 128 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 12333, area = 4.48201
+Found in database, id = 4957, area = 4.59126
+Found in database, id = 13207, area = 4.76107
+Found in database, id = 11571, area = 5.65347
+Found in database, id = 13478, area = 5.69005
+Found in database, id = 23055, area = 6.06424
+Found in database, id = 23458, area = 6.07414
+Found in database, id = 19018, area = 6.25708
+Found in database, id = 23074, area = 6.25708
+Found in database, id = 42221, area = 6.34262
+Found in database, id = 50327, area = 6.34262
+Found in database, id = 50328, area = 6.7053
+Found in database, id = 50329, area = 8.52744
+
+--- episode: 129 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5022, area = 4.42812
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4389, area = 4.37244
+Found in database, id = 12568, area = 4.3956
+Found in database, id = 4390, area = 4.53231
+Found in database, id = 7433, area = 4.575
+Found in database, id = 13517, area = 4.58482
+Found in database, id = 22718, area = 4.58482
+Found in database, id = 51619, area = 4.62142
+Found in database, id = 13951, area = 4.86054
+Found in database, id = 13952, area = 5.05463
+Found in database, id = 13656, area = 5.98279
+Found in database, id = 30937, area = 6.35698
+Found in database, id = 31090, area = 6.44251
+Found in database, id = 22943, area = 6.44251
+Found in database, id = 22944, area = 6.81879
+Found in database, id = 24071, area = 8.72011
+
+--- episode: 130 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 28, area = 4.46327
+Found in database, id = 29, area = 4.60689
+Found in database, id = 132, area = 4.84601
+Found in database, id = 101, area = 4.87956
+Found in database, id = 13753, area = 4.8411
+Found in database, id = 13419, area = 4.8411
+Found in database, id = 14286, area = 4.8507
+Found in database, id = 14287, area = 5.03912
+Found in database, id = 13952, area = 5.05463
+Found in database, id = 23205, area = 5.52559
+Found in database, id = 44467, area = 5.61113
+Found in database, id = 23589, area = 6.53928
+Found in database, id = 24134, area = 6.53928
+Found in database, id = 25501, area = 6.91556
+Found in database, id = 24034, area = 7.0596
+Found in database, id = 25456, area = 7.19901
+
+--- episode: 131 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 5022, area = 4.42812
+Found in database, id = 4411, area = 4.34173
+Found in database, id = 2, area = 4.35736
+Found in database, id = 4389, area = 4.37244
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13251, area = 4.42495
+Found in database, id = 7296, area = 4.7237
+Found in database, id = 3546, area = 5.22122
+Found in database, id = 583, area = 5.32491
+Found in database, id = 3422, area = 5.22122
+Found in database, id = 3014, area = 5.25582
+Found in database, id = 23888, area = 5.20621
+Found in database, id = 24411, area = 5.40031
+Found in database, id = 27303, area = 5.48585
+Found in database, id = 22243, area = 5.67909
+Found in database, id = 21855, area = 5.67909
+Found in database, id = 23496, area = 6.05537
+Found in database, id = 24034, area = 7.0596
+Found in database, id = 25456, area = 7.19901
+
+--- episode: 132 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4266, area = 4.49876
+Found in database, id = 7230, area = 4.54145
+Found in database, id = 7231, area = 5.43385
+Found in database, id = 9056, area = 5.44368
+Found in database, id = 1730, area = 5.82863
+Found in database, id = 13522, area = 5.77903
+Found in database, id = 25450, area = 6.19392
+Found in database, id = 36817, area = 6.38801
+Found in database, id = 25454, area = 6.38801
+Found in database, id = 36818, area = 6.47355
+Found in database, id = 48968, area = 6.47355
+Found in database, id = 25355, area = 8.29568
+
+--- episode: 133 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 4957, area = 4.59126
+Found in database, id = 4760, area = 4.62481
+Found in database, id = 316, area = 4.64044
+Found in database, id = 645, area = 4.64044
+Found in database, id = 32424, area = 4.60198
+Found in database, id = 18811, area = 4.78492
+Found in database, id = 18812, area = 4.8
+Found in database, id = 14287, area = 5.03912
+Found in database, id = 13895, area = 5.10708
+Found in database, id = 14092, area = 5.12259
+Found in database, id = 22242, area = 5.59355
+Found in database, id = 22243, area = 5.67909
+Found in database, id = 21855, area = 5.67909
+Found in database, id = 23496, area = 6.05537
+Found in database, id = 24034, area = 7.0596
+Found in database, id = 25456, area = 7.19901
+
+--- episode: 134 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 5204, area = 4.46494
+Found in database, id = 7983, area = 4.43022
+Found in database, id = 13797, area = 4.72897
+Found in database, id = 13798, area = 4.76556
+Found in database, id = 15290, area = 5.18045
+Found in database, id = 19202, area = 5.19035
+Found in database, id = 20052, area = 5.37329
+Found in database, id = 22016, area = 5.37329
+Found in database, id = 25942, area = 5.45882
+Found in database, id = 50397, area = 5.45882
+Found in database, id = 50398, area = 5.82151
+Found in database, id = 51659, area = 5.84327
+Found in database, id = 21935, area = 6.03651
+Found in database, id = 21936, area = 7.04074
+Found in database, id = 24768, area = 7.18015
+
+--- episode: 135 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 11998, area = 4.67708
+Found in database, id = 15980, area = 5.0884
+Found in database, id = 17249, area = 5.23202
+Found in database, id = 21266, area = 6.12443
+Found in database, id = 22262, area = 6.16101
+Found in database, id = 40647, area = 6.33822
+Found in database, id = 26873, area = 6.33822
+Found in database, id = 51660, area = 8.16035
+
+--- episode: 136 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 4957, area = 4.59126
+Found in database, id = 4760, area = 4.62481
+Found in database, id = 17258, area = 4.5555
+Found in database, id = 645, area = 4.64044
+Found in database, id = 32424, area = 4.60198
+Found in database, id = 13419, area = 4.8411
+Found in database, id = 14286, area = 4.8507
+Found in database, id = 15127, area = 5.32166
+Found in database, id = 22514, area = 5.51008
+Found in database, id = 34020, area = 5.59561
+Found in database, id = 15787, area = 5.59561
+Found in database, id = 54407, area = 5.96498
+Found in database, id = 21919, area = 6.89313
+Found in database, id = 21920, area = 8.79444
+
+--- episode: 137 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13896, area = 4.64296
+Found in database, id = 13964, area = 5.64719
+Found in database, id = 48912, area = 5.68378
+Found in database, id = 20645, area = 5.8722
+Found in database, id = 48974, area = 5.88771
+Found in database, id = 24342, area = 6.12683
+Found in database, id = 21760, area = 6.59778
+Found in database, id = 17561, area = 6.68332
+Found in database, id = 22732, area = 6.68332
+Found in database, id = 22733, area = 7.0596
+Found in database, id = 25316, area = 7.19901
+
+--- episode: 138 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 12577, area = 4.51881
+Found in database, id = 1338, area = 4.73476
+Found in database, id = 1628, area = 4.76935
+Found in database, id = 14047, area = 4.72543
+Found in database, id = 21701, area = 4.91384
+Found in database, id = 14049, area = 4.91384
+Found in database, id = 13768, area = 4.92936
+Found in database, id = 23506, area = 5.30355
+Found in database, id = 24315, area = 5.38908
+Found in database, id = 56285, area = 5.38908
+Found in database, id = 95711, area = 5.76536
+Found in database, id = 26893, area = 5.9586
+Found in database, id = 24257, area = 6.96284
+Found in database, id = 24258, area = 7.10224
+
+--- episode: 139 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 104286, area = 4.62442
+Found in database, id = 45204, area = 4.67473
+Found in database, id = 13132, area = 4.97348
+Found in database, id = 22040, area = 5.3848
+Found in database, id = 23246, area = 5.3848
+Found in database, id = 43477, area = 5.47033
+Found in database, id = 17081, area = 5.47033
+Found in database, id = 50393, area = 5.8397
+Found in database, id = 22871, area = 6.03294
+Found in database, id = 22436, area = 7.03717
+Found in database, id = 24763, area = 7.17658
+
+--- episode: 140 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7230, area = 4.54145
+Found in database, id = 7433, area = 4.575
+Found in database, id = 13896, area = 4.64296
+Found in database, id = 13964, area = 5.64719
+Found in database, id = 48912, area = 5.68378
+Found in database, id = 20645, area = 5.8722
+Found in database, id = 48974, area = 5.88771
+Found in database, id = 48975, area = 6.18646
+Found in database, id = 14128, area = 6.18646
+Found in database, id = 45836, area = 6.60135
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 141 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 7433, area = 4.575
+Found in database, id = 13517, area = 4.58482
+Found in database, id = 916, area = 4.96978
+Found in database, id = 13708, area = 4.92017
+Found in database, id = 23986, area = 5.33149
+Found in database, id = 23987, area = 5.52559
+Found in database, id = 23661, area = 5.59355
+Found in database, id = 22242, area = 5.59355
+Found in database, id = 22243, area = 5.67909
+Found in database, id = 21855, area = 5.67909
+Found in database, id = 23496, area = 6.05537
+Found in database, id = 24034, area = 7.0596
+Found in database, id = 25456, area = 7.19901
+
+--- episode: 142 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 28, area = 4.46327
+Found in database, id = 66, area = 4.76202
+Found in database, id = 850, area = 4.77932
+Found in database, id = 915, area = 4.7944
+Found in database, id = 742, area = 4.95427
+Found in database, id = 13403, area = 4.91034
+Found in database, id = 8031, area = 5.09876
+Found in database, id = 13874, area = 5.09876
+Found in database, id = 29347, area = 5.09876
+Found in database, id = 29349, area = 5.51365
+Found in database, id = 15815, area = 5.59918
+Found in database, id = 32747, area = 5.96855
+Found in database, id = 21935, area = 6.03651
+Found in database, id = 21936, area = 7.04074
+Found in database, id = 24768, area = 7.18015
+
+--- episode: 143 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 5204, area = 4.46494
+Found in database, id = 7983, area = 4.43022
+Found in database, id = 105346, area = 4.59372
+Found in database, id = 14474, area = 4.64401
+Found in database, id = 20891, area = 4.65965
+Found in database, id = 13128, area = 4.85288
+Found in database, id = 20366, area = 4.86796
+Found in database, id = 20645, area = 5.8722
+Found in database, id = 48974, area = 5.88771
+Found in database, id = 48975, area = 6.18646
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 144 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 915, area = 4.7944
+Found in database, id = 1181, area = 4.82899
+Found in database, id = 13979, area = 4.78506
+Found in database, id = 13980, area = 4.78506
+Found in database, id = 13981, area = 4.97348
+Found in database, id = 13366, area = 4.98899
+Found in database, id = 22058, area = 5.40388
+Found in database, id = 25260, area = 5.48942
+Found in database, id = 25336, area = 5.48942
+Found in database, id = 22338, area = 5.68266
+Found in database, id = 21812, area = 6.05894
+Found in database, id = 23821, area = 7.06317
+Found in database, id = 25448, area = 7.20258
+
+--- episode: 145 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 7433, area = 4.575
+Found in database, id = 13517, area = 4.58482
+Found in database, id = 6143, area = 4.82394
+Found in database, id = 13950, area = 4.86054
+Found in database, id = 23986, area = 5.33149
+Found in database, id = 23987, area = 5.52559
+Found in database, id = 51631, area = 5.8715
+Found in database, id = 29391, area = 6.79965
+Found in database, id = 25480, area = 6.9437
+Found in database, id = 21761, area = 7.0596
+Found in database, id = 22733, area = 7.0596
+Found in database, id = 25316, area = 7.19901
+
+--- episode: 146 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 8647, area = 4.69866
+Found in database, id = 13766, area = 4.73526
+Found in database, id = 23861, area = 5.20621
+Found in database, id = 23862, area = 5.40031
+Found in database, id = 49038, area = 5.74622
+Found in database, id = 25478, area = 5.93946
+Found in database, id = 25480, area = 6.9437
+Found in database, id = 21761, area = 7.0596
+Found in database, id = 22733, area = 7.0596
+Found in database, id = 25316, area = 7.19901
+
+--- episode: 147 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 104286, area = 4.62442
+Found in database, id = 45204, area = 4.67473
+Found in database, id = 25334, area = 4.69024
+Found in database, id = 20709, area = 4.92936
+Found in database, id = 23862, area = 5.40031
+Found in database, id = 23661, area = 5.59355
+Found in database, id = 21760, area = 6.59778
+Found in database, id = 17561, area = 6.68332
+Found in database, id = 22732, area = 6.68332
+Found in database, id = 22733, area = 7.0596
+Found in database, id = 25316, area = 7.19901
+
+--- episode: 148 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 104286, area = 4.62442
+Found in database, id = 45204, area = 4.67473
+Found in database, id = 25334, area = 4.69024
+Found in database, id = 23974, area = 4.98899
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 49036, area = 5.74979
+Found in database, id = 21809, area = 5.94303
+Found in database, id = 22405, area = 6.94727
+Found in database, id = 21597, area = 7.06317
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 149 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13896, area = 4.64296
+Found in database, id = 13964, area = 5.64719
+Found in database, id = 48912, area = 5.68378
+Found in database, id = 37563, area = 5.69361
+Found in database, id = 13941, area = 5.99237
+Found in database, id = 23850, area = 6.40726
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 150 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 10117, area = 4.61744
+Found in database, id = 10118, area = 4.63474
+Found in database, id = 10557, area = 4.66934
+Found in database, id = 13436, area = 4.70592
+Found in database, id = 13692, area = 4.71582
+Found in database, id = 14047, area = 4.72543
+Found in database, id = 13893, area = 4.91866
+Found in database, id = 14090, area = 4.9285
+Found in database, id = 23978, area = 5.39945
+Found in database, id = 23661, area = 5.59355
+Found in database, id = 25478, area = 5.93946
+Found in database, id = 26806, area = 5.93946
+Found in database, id = 26807, area = 6.05537
+Found in database, id = 22733, area = 7.0596
+Found in database, id = 25316, area = 7.19901
+
+--- episode: 151 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 8647, area = 4.69866
+Found in database, id = 13766, area = 4.73526
+Found in database, id = 23861, area = 5.20621
+Found in database, id = 23862, area = 5.40031
+Found in database, id = 24411, area = 5.40031
+Found in database, id = 27303, area = 5.48585
+Found in database, id = 17082, area = 5.48585
+Found in database, id = 69944, area = 5.86213
+Found in database, id = 23496, area = 6.05537
+Found in database, id = 24034, area = 7.0596
+Found in database, id = 25456, area = 7.19901
+
+--- episode: 152 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13896, area = 4.64296
+Found in database, id = 13964, area = 5.64719
+Found in database, id = 48912, area = 5.68378
+Found in database, id = 37563, area = 5.69361
+Found in database, id = 13941, area = 5.99237
+Found in database, id = 23850, area = 6.40726
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 153 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 5204, area = 4.46494
+Found in database, id = 7983, area = 4.43022
+Found in database, id = 163, area = 4.51516
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13896, area = 4.64296
+Found in database, id = 13897, area = 4.65278
+Found in database, id = 3383, area = 5.03774
+Found in database, id = 13338, area = 4.98813
+Found in database, id = 21593, area = 5.40302
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 154 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 5204, area = 4.46494
+Found in database, id = 7983, area = 4.43022
+Found in database, id = 163, area = 4.51516
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 155 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 22058, area = 5.40388
+Found in database, id = 25260, area = 5.48942
+Found in database, id = 25336, area = 5.48942
+Found in database, id = 49012, area = 5.8657
+Found in database, id = 21812, area = 6.05894
+Found in database, id = 23821, area = 7.06317
+Found in database, id = 25448, area = 7.20258
+
+--- episode: 156 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 49036, area = 5.74979
+Found in database, id = 21809, area = 5.94303
+Found in database, id = 22405, area = 6.94727
+Found in database, id = 21597, area = 7.06317
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 157 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 158 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 159 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 49036, area = 5.74979
+Found in database, id = 21809, area = 5.94303
+Found in database, id = 22405, area = 6.94727
+Found in database, id = 21597, area = 7.06317
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 160 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 22407, area = 5.59712
+Found in database, id = 15617, area = 5.68266
+Found in database, id = 22338, area = 5.68266
+Found in database, id = 21812, area = 6.05894
+Found in database, id = 23821, area = 7.06317
+Found in database, id = 25448, area = 7.20258
+
+--- episode: 161 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 4640, area = 4.44764
+Found in database, id = 5204, area = 4.46494
+Found in database, id = 7983, area = 4.43022
+Found in database, id = 163, area = 4.51516
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 162 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 163 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 164 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21809, area = 5.94303
+Found in database, id = 22405, area = 6.94727
+Found in database, id = 21597, area = 7.06317
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 165 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 166 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 167 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 168 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 169 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 170 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 171 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 172 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 173 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 174 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 175 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 176 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 177 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 178 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 179 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 180 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 181 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 182 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 183 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 184 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 185 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 186 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 187 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 188 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 189 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 190 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 191 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 192 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 193 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 194 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 195 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 196 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 197 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 198 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 199 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+
+--- episode: 200 ---
+
+Found in database, id = 0, area = 4.32443
+Found in database, id = 1, area = 4.34006
+Found in database, id = 4265, area = 4.35514
+Found in database, id = 4882, area = 4.47834
+Found in database, id = 7432, area = 4.41512
+Found in database, id = 13909, area = 4.44972
+Found in database, id = 13910, area = 4.45955
+Found in database, id = 3192, area = 4.8445
+Found in database, id = 13364, area = 4.79489
+Found in database, id = 21592, area = 5.20978
+Found in database, id = 23820, area = 5.40388
+Found in database, id = 21594, area = 5.59712
+Found in database, id = 21595, area = 6.60135
+Found in database, id = 21596, area = 6.68689
+Found in database, id = 18975, area = 6.68689
+Found in database, id = 22408, area = 7.06317
+Found in database, id = 25282, area = 7.20258
+[[64, 8, 512, 4, 2, 4, 128, 2, 1, 2, 8], [64, 8, 1024, 2, 2, 4, 96, 2, 1, 2, 4], [64, 8, 256, 8, 2, 4, 96, 2, 1, 2, 4], [64, 8, 256, 8, 2, 4, 96, 2, 1, 2, 8], [64, 8, 1024, 2, 2, 4, 128, 2, 1, 2, 8], [64, 8, 128, 16, 2, 4, 96, 2, 1, 2, 4], [64, 8, 512, 4, 2, 4, 96, 2, 1, 2, 8], [64, 8, 512, 4, 2, 4, 128, 2, 1, 2, 4], [64, 8, 1024, 2, 2, 4, 128, 2, 1, 2, 4], [64, 8, 512, 4, 2, 4, 96, 2, 1, 2, 4], [64, 8, 1024, 2, 2, 4, 96, 2, 1, 2, 8], [64, 8, 256, 8, 2, 4, 128, 2, 1, 2, 8], [64, 8, 256, 8, 2, 4, 160, 2, 1, 2, 4], [64, 8, 512, 4, 2, 4, 160, 2, 1, 2, 4], [64, 8, 256, 8, 2, 4, 128, 2, 1, 2, 4], [64, 8, 128, 16, 2, 4, 96, 2, 1, 2, 8]]
+Boom64n8n256n8n2n4n128n2n2n1n4
+mm-405060-456 Found in high fidelity database, cpi=1.7188610404980498
+descent_sorted_design [[64, 8, 128, 16, 2, 4, 96, 2, 1, 2, 8], [64, 8, 128, 16, 2, 4, 96, 2, 1, 2, 4], [64, 8, 256, 8, 2, 4, 160, 2, 1, 2, 4]]
+Boom64n8n128n16n2n4n96n2n2n1n8
+mm-405060-456 Found in high fidelity database, cpi=1.6242420593864233
+Boom64n8n128n16n2n4n96n2n2n1n4
+mm-405060-456 Found in high fidelity database, cpi=1.7214906720938798
+Boom64n8n256n8n2n4n160n2n2n1n4
+mm-405060-456 Found in high fidelity database, cpi=1.7188610404980498
+
+--- episode: 201 ---
+
+Found in database, id = 26812, area = 7.22434
+running McPAT ...
+Found in database, id = 26917, area = 7.24761
+Found in database, id = 54305, area = 7.35386
+Found in database, id = 26358, area = 8.31821
+Boom64n8n256n8n4n5n160n2n2n1n8
+mm-405060-456 Found in high fidelity database, cpi=1.623399421292894
+[64, 8, 256, 8, 4, 5, 160, 2, 1, 2, 8]
+high fidelity result: 1.623399421292894, reward: 3.4210753654044836
+
+--- episode: 202 ---
+
+Found in database, id = 26812, area = 7.22434
+Found in database, id = 108275, area = 7.24761
+Found in database, id = 26917, area = 7.24761
+running McPAT ...
+running McPAT ...
+Boom64n8n256n8n2n5n160n2n2n1n16
+mm-405060-456 not found, tag: 64, 8, 256, 8, 2, 5, 160, 2, 1, 2, 16
+Runing VLSI Flow
+Boom64n8n256n8n2n5n160n2n2n1n16 cpi: 1.6113118327134373
+chipyard time: 187.91 s
+mm-405060-456 bench time: 752.16 s
+[64, 8, 256, 8, 2, 5, 160, 2, 1, 2, 16]
+high fidelity result: 1.6113118327134373, reward: 3.8831740013022795
+
+--- episode: 203 ---
+
+Found in database, id = 28468, area = 7.36713
+Found in database, id = 28468, area = 7.36713
+Found in database, id = 103046, area = 9.3975
+Boom64n8n128n16n2n4n96n2n2n1n8
+mm-405060-456 Found in high fidelity database, cpi=1.6242420593864233
+hf-tested, pass
+high fidelity result: 1.6242420593864233, reward: 3.389118442899118
+
+--- episode: 204 ---
+
+Found in database, id = 26812, area = 7.22434
+Found in database, id = 108275, area = 7.24761
+Found in database, id = 26917, area = 7.24761
+Found in database, id = 26358, area = 8.31821
+Boom64n8n256n8n2n5n160n2n2n1n8
+mm-405060-456 Found in high fidelity database, cpi=1.624364565468482
+[64, 8, 256, 8, 2, 5, 160, 2, 1, 2, 8]
+high fidelity result: 1.624364565468482, reward: 3.384475178744239
+
+--- episode: 205 ---
+
+Found in database, id = 26812, area = 7.22434
+Found in database, id = 108275, area = 7.24761
+Found in database, id = 26917, area = 7.24761
+running McPAT ...
+Boom64n8n256n8n2n5n160n2n2n1n8
+mm-405060-456 Found in high fidelity database, cpi=1.624364565468482
+hf-tested, pass
+high fidelity result: 1.624364565468482, reward: 3.384475178744239
+
+--- episode: 206 ---
+
+Found in database, id = 26812, area = 7.22434
+running McPAT ...
+
+--- episode: 207 ---
+
+Found in database, id = 26812, area = 7.22434
+Found in database, id = 108275, area = 7.24761
+Found in database, id = 26917, area = 7.24761
+Found in database, id = 94611, area = 7.71225
+Boom64n8n256n8n2n5n160n2n2n1n8
+mm-405060-456 Found in high fidelity database, cpi=1.624364565468482
+hf-tested, pass
+high fidelity result: 1.624364565468482, reward: 3.384475178744239
+
+--- episode: 208 ---
+
+Found in database, id = 26812, area = 7.22434
+Found in database, id = 28961, area = 7.22434
+Found in database, id = 71300, area = 9.25472
+Boom64n8n256n8n2n4n160n2n2n1n8
+mm-405060-456 Found in high fidelity database, cpi=1.6239848126147138
+[64, 8, 256, 8, 2, 4, 160, 2, 1, 2, 8]
+high fidelity result: 1.6239848126147138, reward: 3.398870971163582
+
+--- episode: 209 ---
+
+Found in database, id = 26812, area = 7.22434
+Found in database, id = 108275, area = 7.24761
+Found in database, id = 26917, area = 7.24761
+Found in database, id = 94611, area = 7.71225
+Boom64n8n256n8n2n5n160n2n2n1n8
+mm-405060-456 Found in high fidelity database, cpi=1.624364565468482
+hf-tested, pass
+high fidelity result: 1.624364565468482, reward: 3.384475178744239
+
+--- episode: 210 ---
+
+Found in database, id = 28468, area = 7.36713
+running McPAT ...
+Found in database, id = 107663, area = 7.39514
+Found in database, id = 36144, area = 7.41841
+Found in database, id = 107664, area = 9.44878
+Boom64n8n128n16n2n5n128n2n2n1n16
+mm-405060-456 Found in high fidelity database, cpi=1.6123212703194978
+[64, 8, 128, 16, 2, 5, 128, 2, 1, 2, 16]
+high fidelity result: 1.6123212703194978, reward: 3.8443188772059145
+
+--- episode: 211 ---
+
+Found in database, id = 28468, area = 7.36713
+Found in database, id = 64974, area = 8.24017
+
+--- episode: 212 ---
+
+Found in database, id = 25208, area = 7.36713
+running McPAT ...
+Found in database, id = 31673, area = 7.3904
+running McPAT ...
+Boom64n8n128n16n2n5n96n2n2n1n8
+mm-405060-456 Found in high fidelity database, cpi=1.6247338366579545
+[64, 8, 128, 16, 2, 5, 96, 2, 1, 2, 8]
+high fidelity result: 1.6247338366579545, reward: 3.3704831820742243
+high fidelity sample number: 10
+Best high fidelity sample: 1.6113118327134373
+Training ends
+Time spent: 1106.7012958526611
+Logs stored in /proj/users/hanwei.fan/RISCV_Model_and_DSE/FNN_DSE/logs/MBPGMF/mm-405060-456/1.
