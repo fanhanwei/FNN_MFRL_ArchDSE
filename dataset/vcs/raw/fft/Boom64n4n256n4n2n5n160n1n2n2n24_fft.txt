@@ -1,0 +1,9 @@
+Chronologic VCS simulator copyright 1991-2020
+Contains Synopsys proprietary information.
+Compiler version R-2020.12-1_Full64; Runtime version R-2020.12-1_Full64;  Nov 20 17:26 2023
+[UART] UART0 is here (stdin/stdout).
+Received SIGHUP (signal 1), exiting.
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 1564229000 ps
+CPU Time:    531.590 seconds;       Data structure size:   3.7Mb
+Mon Nov 20 17:35:28 2023

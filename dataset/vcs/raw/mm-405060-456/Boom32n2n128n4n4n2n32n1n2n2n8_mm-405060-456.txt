@@ -1,0 +1,13 @@
+Chronologic VCS simulator copyright 1991-2020
+Contains Synopsys proprietary information.
+Compiler version R-2020.12-1_Full64; Runtime version R-2020.12-1_Full64;  Nov 16 16:20 2023
+[UART] UART0 is here (stdin/stdout).
+C0: reg block 4x5x6, cache block 40x50x60
+mcycle = 1687043
+minstret = 714279
+$finish called from file "/proj/users/hanwei.fan/dataset/generated-src/chipyard.harness.TestHarness.Boom32n2n128n4n4n2n32n1n2n2n8/gen-collateral/TestDriver.v", line 158.
+$finish at simulation time           3954495500
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 3954495500 ps
+CPU Time:    700.670 seconds;       Data structure size:   2.6Mb
+Thu Nov 16 16:31:43 2023

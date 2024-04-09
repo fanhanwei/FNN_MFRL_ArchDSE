@@ -1,0 +1,13 @@
+Chronologic VCS simulator copyright 1991-2020
+Contains Synopsys proprietary information.
+Compiler version R-2020.12-1_Full64; Runtime version R-2020.12-1_Full64;  Sep  9 04:58 2023
+[UART] UART0 is here (stdin/stdout).
+Shortest path is 80 in cost. 
+mcycle = 1800984
+minstret = 1307554
+$finish called from file "/proj/users/hanwei.fan/dataset/generated-src/chipyard.harness.TestHarness.Boom64n16n1024n4n2n2n128n2n2n1n2/gen-collateral/TestDriver.v", line 158.
+$finish at simulation time           9056975500
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 9056975500 ps
+CPU Time:   1221.220 seconds;       Data structure size:   3.4Mb
+Sat Sep  9 05:19:04 2023

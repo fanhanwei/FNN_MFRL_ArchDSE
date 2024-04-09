@@ -1,0 +1,319 @@
+{
+    "branchEntropy": {
+        "entropies": [
+            {
+                "bufferSize": "1",
+                "entropy": 1.0,
+                "mispredictionRate": 0.000488013
+            },
+            {
+                "bufferSize": "2",
+                "entropy": 1.00607,
+                "mispredictionRate": 0.000427038
+            },
+            {
+                "bufferSize": "3",
+                "entropy": 1.00979,
+                "mispredictionRate": 0.000305045
+            },
+            {
+                "bufferSize": "4",
+                "entropy": 1.01248,
+                "mispredictionRate": 0.000305064
+            },
+            {
+                "bufferSize": "5",
+                "entropy": 1.01501,
+                "mispredictionRate": 0.000305083
+            },
+            {
+                "bufferSize": "6",
+                "entropy": 1.01753,
+                "mispredictionRate": 0.000305101
+            },
+            {
+                "bufferSize": "7",
+                "entropy": 1.02005,
+                "mispredictionRate": 0.00030512
+            },
+            {
+                "bufferSize": "8",
+                "entropy": 1.02257,
+                "mispredictionRate": 0.000305139
+            },
+            {
+                "bufferSize": "9",
+                "entropy": 1.0251,
+                "mispredictionRate": 0.000305157
+            },
+            {
+                "bufferSize": "10",
+                "entropy": 1.02762,
+                "mispredictionRate": 0.000305176
+            },
+            {
+                "bufferSize": "11",
+                "entropy": 1.03014,
+                "mispredictionRate": 0.000305194
+            },
+            {
+                "bufferSize": "12",
+                "entropy": 1.03267,
+                "mispredictionRate": 0.000305213
+            },
+            {
+                "bufferSize": "13",
+                "entropy": 1.03519,
+                "mispredictionRate": 0.000305232
+            },
+            {
+                "bufferSize": "14",
+                "entropy": 1.03772,
+                "mispredictionRate": 0.00030525
+            },
+            {
+                "bufferSize": "15",
+                "entropy": 1.04024,
+                "mispredictionRate": 0.000305269
+            },
+            {
+                "bufferSize": "16",
+                "entropy": 1.04276,
+                "mispredictionRate": 0.000305288
+            },
+            {
+                "bufferSize": "17",
+                "entropy": 1.04529,
+                "mispredictionRate": 0.000305306
+            },
+            {
+                "bufferSize": "18",
+                "entropy": 1.04781,
+                "mispredictionRate": 0.000305325
+            },
+            {
+                "bufferSize": "19",
+                "entropy": 1.05034,
+                "mispredictionRate": 0.000305344
+            },
+            {
+                "bufferSize": "20",
+                "entropy": 1.05286,
+                "mispredictionRate": 0.000305362
+            },
+            {
+                "bufferSize": "21",
+                "entropy": 1.05539,
+                "mispredictionRate": 0.000305381
+            },
+            {
+                "bufferSize": "22",
+                "entropy": 1.05792,
+                "mispredictionRate": 0.000305399
+            },
+            {
+                "bufferSize": "23",
+                "entropy": 1.06044,
+                "mispredictionRate": 0.000305418
+            },
+            {
+                "bufferSize": "24",
+                "entropy": 1.06297,
+                "mispredictionRate": 0.000305437
+            },
+            {
+                "bufferSize": "25",
+                "entropy": 1.0655,
+                "mispredictionRate": 0.000305455
+            },
+            {
+                "bufferSize": "26",
+                "entropy": 1.06802,
+                "mispredictionRate": 0.000305474
+            },
+            {
+                "bufferSize": "27",
+                "entropy": 1.07055,
+                "mispredictionRate": 0.000305493
+            },
+            {
+                "bufferSize": "28",
+                "entropy": 1.07308,
+                "mispredictionRate": 0.000305511
+            },
+            {
+                "bufferSize": "29",
+                "entropy": 1.0756,
+                "mispredictionRate": 0.00030553
+            },
+            {
+                "bufferSize": "30",
+                "entropy": 1.07813,
+                "mispredictionRate": 0.000305549
+            },
+            {
+                "bufferSize": "31",
+                "entropy": 1.08066,
+                "mispredictionRate": 0.000305567
+            },
+            {
+                "bufferSize": "32",
+                "entropy": 1.08319,
+                "mispredictionRate": 0.000305586
+            },
+            {
+                "bufferSize": "33",
+                "entropy": 1.08572,
+                "mispredictionRate": 0.000305605
+            },
+            {
+                "bufferSize": "34",
+                "entropy": 1.08825,
+                "mispredictionRate": 0.000305623
+            },
+            {
+                "bufferSize": "35",
+                "entropy": 1.09077,
+                "mispredictionRate": 0.000305642
+            },
+            {
+                "bufferSize": "36",
+                "entropy": 1.0933,
+                "mispredictionRate": 0.000305661
+            },
+            {
+                "bufferSize": "37",
+                "entropy": 1.09583,
+                "mispredictionRate": 0.00030568
+            },
+            {
+                "bufferSize": "38",
+                "entropy": 1.09836,
+                "mispredictionRate": 0.000305698
+            },
+            {
+                "bufferSize": "39",
+                "entropy": 1.10089,
+                "mispredictionRate": 0.000305717
+            },
+            {
+                "bufferSize": "40",
+                "entropy": 1.10342,
+                "mispredictionRate": 0.000305736
+            },
+            {
+                "bufferSize": "41",
+                "entropy": 1.10595,
+                "mispredictionRate": 0.000305754
+            },
+            {
+                "bufferSize": "42",
+                "entropy": 1.10848,
+                "mispredictionRate": 0.000305773
+            },
+            {
+                "bufferSize": "43",
+                "entropy": 1.11101,
+                "mispredictionRate": 0.000305792
+            },
+            {
+                "bufferSize": "44",
+                "entropy": 1.11354,
+                "mispredictionRate": 0.00030581
+            },
+            {
+                "bufferSize": "45",
+                "entropy": 1.11608,
+                "mispredictionRate": 0.000305829
+            },
+            {
+                "bufferSize": "46",
+                "entropy": 1.11861,
+                "mispredictionRate": 0.000305848
+            },
+            {
+                "bufferSize": "47",
+                "entropy": 1.12114,
+                "mispredictionRate": 0.000305867
+            },
+            {
+                "bufferSize": "48",
+                "entropy": 1.12367,
+                "mispredictionRate": 0.000305885
+            },
+            {
+                "bufferSize": "49",
+                "entropy": 1.1262,
+                "mispredictionRate": 0.000305904
+            },
+            {
+                "bufferSize": "50",
+                "entropy": 1.12873,
+                "mispredictionRate": 0.000305923
+            },
+            {
+                "bufferSize": "51",
+                "entropy": 1.13127,
+                "mispredictionRate": 0.000305941
+            },
+            {
+                "bufferSize": "52",
+                "entropy": 1.1338,
+                "mispredictionRate": 0.00030596
+            },
+            {
+                "bufferSize": "53",
+                "entropy": 1.13633,
+                "mispredictionRate": 0.000305979
+            },
+            {
+                "bufferSize": "54",
+                "entropy": 1.13887,
+                "mispredictionRate": 0.000305998
+            },
+            {
+                "bufferSize": "55",
+                "entropy": 1.1414,
+                "mispredictionRate": 0.000306016
+            },
+            {
+                "bufferSize": "56",
+                "entropy": 1.14393,
+                "mispredictionRate": 0.000306035
+            },
+            {
+                "bufferSize": "57",
+                "entropy": 1.14647,
+                "mispredictionRate": 0.000306054
+            },
+            {
+                "bufferSize": "58",
+                "entropy": 1.149,
+                "mispredictionRate": 0.000306072
+            },
+            {
+                "bufferSize": "59",
+                "entropy": 1.15154,
+                "mispredictionRate": 0.000306091
+            },
+            {
+                "bufferSize": "60",
+                "entropy": 1.15407,
+                "mispredictionRate": 0.00030611
+            },
+            {
+                "bufferSize": "61",
+                "entropy": 1.15661,
+                "mispredictionRate": 0.000306129
+            },
+            {
+                "bufferSize": "62",
+                "entropy": 1.15914,
+                "mispredictionRate": 0.000306147
+            }
+        ],
+        "branches": 0,
+        "bestEntropy": 1.15914,
+        "bestMispredictionRate": 0.000305045
+    }
+}

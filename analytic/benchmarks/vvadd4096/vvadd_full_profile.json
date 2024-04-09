@@ -1,0 +1,1581 @@
+{
+    "application": "vvadd",
+    "test-scenario": "default",
+    "execmd": "./main.pisaCoupled.nls ",
+    "time": "2023-08-17T22:48:02Z",
+    "threads": [
+        {
+            "threadId": 0,
+            "processId": 0,
+            "instructionMix": {
+                "instructions_analyzed": 155659,
+                "load_instructions": [
+                    {
+                        "total_instructions": 32768,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "float_16bits": 0,
+                                "float_32bits": 0,
+                                "float_64bits": 32768,
+                                "float_80bits": 0,
+                                "float_128bits": 0,
+                                "float_128bits_powerpc": 0,
+                                "float_64bits_mmx": 0,
+                                "int_4bits": 0,
+                                "int_8bits": 0,
+                                "int_16bits": 0,
+                                "int_32bits": 0,
+                                "int_64bits": 0,
+                                "int_misc": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 32768
+                            }
+                        ],
+                        "scalar_instructions": 32768,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "store_instructions": [
+                    {
+                        "total_instructions": 8192,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "float_16bits": 0,
+                                "float_32bits": 0,
+                                "float_64bits": 8192,
+                                "float_80bits": 0,
+                                "float_128bits": 0,
+                                "float_128bits_powerpc": 0,
+                                "float_64bits_mmx": 0,
+                                "int_4bits": 0,
+                                "int_8bits": 0,
+                                "int_16bits": 0,
+                                "int_32bits": 0,
+                                "int_64bits": 0,
+                                "int_misc": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 8192
+                            }
+                        ],
+                        "scalar_instructions": 8192,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "atomic_memory_instructions": 0,
+                "atomic_memory_cmpxchg_instructions": 0,
+                "atomic_memory_rmw_instructions": 0,
+                "int_arith_instructions": 16384,
+                "int_arith_add_instructions": [
+                    {
+                        "total_instructions": 16384,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "int_4bits": 0,
+                                "int_8bits": 0,
+                                "int_16bits": 0,
+                                "int_32bits": 4096,
+                                "int_64bits": 12288,
+                                "int_misc": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 16384
+                            }
+                        ],
+                        "scalar_instructions": 16384,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "int_arith_sub_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "int_4bits": 0,
+                                "int_8bits": 0,
+                                "int_16bits": 0,
+                                "int_32bits": 0,
+                                "int_64bits": 0,
+                                "int_misc": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "int_arith_mul_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "int_4bits": 0,
+                                "int_8bits": 0,
+                                "int_16bits": 0,
+                                "int_32bits": 0,
+                                "int_64bits": 0,
+                                "int_misc": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "int_arith_udiv_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "int_4bits": 0,
+                                "int_8bits": 0,
+                                "int_16bits": 0,
+                                "int_32bits": 0,
+                                "int_64bits": 0,
+                                "int_misc": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "int_arith_sdiv_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "int_4bits": 0,
+                                "int_8bits": 0,
+                                "int_16bits": 0,
+                                "int_32bits": 0,
+                                "int_64bits": 0,
+                                "int_misc": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "int_arith_urem_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "int_4bits": 0,
+                                "int_8bits": 0,
+                                "int_16bits": 0,
+                                "int_32bits": 0,
+                                "int_64bits": 0,
+                                "int_misc": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "int_arith_srem_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "int_4bits": 0,
+                                "int_8bits": 0,
+                                "int_16bits": 0,
+                                "int_32bits": 0,
+                                "int_64bits": 0,
+                                "int_misc": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "int_cmp_instructions": [
+                    {
+                        "total_instructions": 12290,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "int_4bits": 0,
+                                "int_8bits": 0,
+                                "int_16bits": 0,
+                                "int_32bits": 4096,
+                                "int_64bits": 8194,
+                                "int_misc": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 12290
+                            }
+                        ],
+                        "scalar_instructions": 12290,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "fp_arith_instructions": 8192,
+                "fp_arith_add_instructions": [
+                    {
+                        "total_instructions": 8192,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "float_16bits": 0,
+                                "float_32bits": 0,
+                                "float_64bits": 8192,
+                                "float_80bits": 0,
+                                "float_128bits": 0,
+                                "float_128bits_powerpc": 0,
+                                "float_64bits_mmx": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 8192
+                            }
+                        ],
+                        "scalar_instructions": 8192,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "fp_arith_sub_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "float_16bits": 0,
+                                "float_32bits": 0,
+                                "float_64bits": 0,
+                                "float_80bits": 0,
+                                "float_128bits": 0,
+                                "float_128bits_powerpc": 0,
+                                "float_64bits_mmx": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "fp_arith_mul_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "float_16bits": 0,
+                                "float_32bits": 0,
+                                "float_64bits": 0,
+                                "float_80bits": 0,
+                                "float_128bits": 0,
+                                "float_128bits_powerpc": 0,
+                                "float_64bits_mmx": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "fp_arith_div_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "float_16bits": 0,
+                                "float_32bits": 0,
+                                "float_64bits": 0,
+                                "float_80bits": 0,
+                                "float_128bits": 0,
+                                "float_128bits_powerpc": 0,
+                                "float_64bits_mmx": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "fp_arith_rem_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "float_16bits": 0,
+                                "float_32bits": 0,
+                                "float_64bits": 0,
+                                "float_80bits": 0,
+                                "float_128bits": 0,
+                                "float_128bits_powerpc": 0,
+                                "float_64bits_mmx": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "fp_cmp_instructions": [
+                    {
+                        "total_instructions": 8192,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "float_16bits": 0,
+                                "float_32bits": 0,
+                                "float_64bits": 8192,
+                                "float_80bits": 0,
+                                "float_128bits": 0,
+                                "float_128bits_powerpc": 0,
+                                "float_64bits_mmx": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 8192
+                            }
+                        ],
+                        "scalar_instructions": 8192,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "bitwise_instructions": 8192,
+                "bitwise_and_instructions": [
+                    {
+                        "total_instructions": 4096,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "float_16bits": 0,
+                                "float_32bits": 0,
+                                "float_64bits": 0,
+                                "float_80bits": 0,
+                                "float_128bits": 0,
+                                "float_128bits_powerpc": 0,
+                                "float_64bits_mmx": 0,
+                                "int_4bits": 0,
+                                "int_8bits": 0,
+                                "int_16bits": 0,
+                                "int_32bits": 0,
+                                "int_64bits": 0,
+                                "int_misc": 4096,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 4096
+                            }
+                        ],
+                        "scalar_instructions": 4096,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "bitwise_or_instructions": [
+                    {
+                        "total_instructions": 4096,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "float_16bits": 0,
+                                "float_32bits": 0,
+                                "float_64bits": 0,
+                                "float_80bits": 0,
+                                "float_128bits": 0,
+                                "float_128bits_powerpc": 0,
+                                "float_64bits_mmx": 0,
+                                "int_4bits": 0,
+                                "int_8bits": 0,
+                                "int_16bits": 0,
+                                "int_32bits": 0,
+                                "int_64bits": 4096,
+                                "int_misc": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 4096
+                            }
+                        ],
+                        "scalar_instructions": 4096,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "bitwise_xor_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "float_16bits": 0,
+                                "float_32bits": 0,
+                                "float_64bits": 0,
+                                "float_80bits": 0,
+                                "float_128bits": 0,
+                                "float_128bits_powerpc": 0,
+                                "float_64bits_mmx": 0,
+                                "int_4bits": 0,
+                                "int_8bits": 0,
+                                "int_16bits": 0,
+                                "int_32bits": 0,
+                                "int_64bits": 0,
+                                "int_misc": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "bitwise_shift_left_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "float_16bits": 0,
+                                "float_32bits": 0,
+                                "float_64bits": 0,
+                                "float_80bits": 0,
+                                "float_128bits": 0,
+                                "float_128bits_powerpc": 0,
+                                "float_64bits_mmx": 0,
+                                "int_4bits": 0,
+                                "int_8bits": 0,
+                                "int_16bits": 0,
+                                "int_32bits": 0,
+                                "int_64bits": 0,
+                                "int_misc": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "bitwise_logical_shift_right_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "float_16bits": 0,
+                                "float_32bits": 0,
+                                "float_64bits": 0,
+                                "float_80bits": 0,
+                                "float_128bits": 0,
+                                "float_128bits_powerpc": 0,
+                                "float_64bits_mmx": 0,
+                                "int_4bits": 0,
+                                "int_8bits": 0,
+                                "int_16bits": 0,
+                                "int_32bits": 0,
+                                "int_64bits": 0,
+                                "int_misc": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "bitwise_arith_shift_right_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "float_16bits": 0,
+                                "float_32bits": 0,
+                                "float_64bits": 0,
+                                "float_80bits": 0,
+                                "float_128bits": 0,
+                                "float_128bits_powerpc": 0,
+                                "float_64bits_mmx": 0,
+                                "int_4bits": 0,
+                                "int_8bits": 0,
+                                "int_16bits": 0,
+                                "int_32bits": 0,
+                                "int_64bits": 0,
+                                "int_misc": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "conversion_instructions": 4096,
+                "conversion_trunc_instructions": [
+                    {
+                        "total_instructions": 4096,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "int_4bits": 0,
+                                "int_8bits": 0,
+                                "int_16bits": 0,
+                                "int_32bits": 4096,
+                                "int_64bits": 0,
+                                "int_misc": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 4096
+                            }
+                        ],
+                        "scalar_instructions": 4096,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "conversion_zext_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "int_4bits": 0,
+                                "int_8bits": 0,
+                                "int_16bits": 0,
+                                "int_32bits": 0,
+                                "int_64bits": 0,
+                                "int_misc": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "conversion_sext_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "int_4bits": 0,
+                                "int_8bits": 0,
+                                "int_16bits": 0,
+                                "int_32bits": 0,
+                                "int_64bits": 0,
+                                "int_misc": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "conversion_fptrunc_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "float_16bits": 0,
+                                "float_32bits": 0,
+                                "float_64bits": 0,
+                                "float_80bits": 0,
+                                "float_128bits": 0,
+                                "float_128bits_powerpc": 0,
+                                "float_64bits_mmx": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "conversion_fpext_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "float_16bits": 0,
+                                "float_32bits": 0,
+                                "float_64bits": 0,
+                                "float_80bits": 0,
+                                "float_128bits": 0,
+                                "float_128bits_powerpc": 0,
+                                "float_64bits_mmx": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "conversion_fptoui_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "int_4bits": 0,
+                                "int_8bits": 0,
+                                "int_16bits": 0,
+                                "int_32bits": 0,
+                                "int_64bits": 0,
+                                "int_misc": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "conversion_fptosi_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "int_4bits": 0,
+                                "int_8bits": 0,
+                                "int_16bits": 0,
+                                "int_32bits": 0,
+                                "int_64bits": 0,
+                                "int_misc": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "conversion_uitofp_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "float_16bits": 0,
+                                "float_32bits": 0,
+                                "float_64bits": 0,
+                                "float_80bits": 0,
+                                "float_128bits": 0,
+                                "float_128bits_powerpc": 0,
+                                "float_64bits_mmx": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "conversion_sitofp_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "float_16bits": 0,
+                                "float_32bits": 0,
+                                "float_64bits": 0,
+                                "float_80bits": 0,
+                                "float_128bits": 0,
+                                "float_128bits_powerpc": 0,
+                                "float_64bits_mmx": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "conversion_inttoptr_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "float_16bits": 0,
+                                "float_32bits": 0,
+                                "float_64bits": 0,
+                                "float_80bits": 0,
+                                "float_128bits": 0,
+                                "float_128bits_powerpc": 0,
+                                "float_64bits_mmx": 0,
+                                "int_4bits": 0,
+                                "int_8bits": 0,
+                                "int_16bits": 0,
+                                "int_32bits": 0,
+                                "int_64bits": 0,
+                                "int_misc": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "conversion_ptrtoint_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "float_16bits": 0,
+                                "float_32bits": 0,
+                                "float_64bits": 0,
+                                "float_80bits": 0,
+                                "float_128bits": 0,
+                                "float_128bits_powerpc": 0,
+                                "float_64bits_mmx": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "conversion_bitcast_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "float_16bits": 0,
+                                "float_32bits": 0,
+                                "float_64bits": 0,
+                                "float_80bits": 0,
+                                "float_128bits": 0,
+                                "float_128bits_powerpc": 0,
+                                "float_64bits_mmx": 0,
+                                "int_4bits": 0,
+                                "int_8bits": 0,
+                                "int_16bits": 0,
+                                "int_32bits": 0,
+                                "int_64bits": 0,
+                                "int_misc": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "conversion_address_space_cast_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "float_16bits": 0,
+                                "float_32bits": 0,
+                                "float_64bits": 0,
+                                "float_80bits": 0,
+                                "float_128bits": 0,
+                                "float_128bits_powerpc": 0,
+                                "float_64bits_mmx": 0,
+                                "int_4bits": 0,
+                                "int_8bits": 0,
+                                "int_16bits": 0,
+                                "int_32bits": 0,
+                                "int_64bits": 0,
+                                "int_misc": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "address_arith_instructions": 40960,
+                "address_arith_alloca_arith_instructions": 0,
+                "address_arith_get_elem_ptr_arith_instructions": [
+                    {
+                        "total_instructions": 40960,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "float_16bits": 0,
+                                "float_32bits": 0,
+                                "float_64bits": 0,
+                                "float_80bits": 0,
+                                "float_128bits": 0,
+                                "float_128bits_powerpc": 0,
+                                "float_64bits_mmx": 0,
+                                "int_4bits": 0,
+                                "int_8bits": 0,
+                                "int_16bits": 0,
+                                "int_32bits": 0,
+                                "int_64bits": 0,
+                                "int_misc": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 40960
+                    }
+                ],
+                "control_instructions": 16393,
+                "control_call_instructions": 2,
+                "control_ret_instructions": 3,
+                "control_branch_instructions": 16388,
+                "control_switch_instructions": 0,
+                "control_indirectBr_instructions": 0,
+                "control_invoke_instructions": 0,
+                "control_resume_instructions": 0,
+                "control_unreachable_instructions": 0,
+                "phi_instructions": 0,
+                "sync_instructions": 0,
+                "sync_fence_instructions": 0,
+                "llvm_vector_instructions": 0,
+                "llvm_vector_extract_element_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "float_16bits": 0,
+                                "float_32bits": 0,
+                                "float_64bits": 0,
+                                "float_80bits": 0,
+                                "float_128bits": 0,
+                                "float_128bits_powerpc": 0,
+                                "float_64bits_mmx": 0,
+                                "int_4bits": 0,
+                                "int_8bits": 0,
+                                "int_16bits": 0,
+                                "int_32bits": 0,
+                                "int_64bits": 0,
+                                "int_misc": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "llvm_vector_insert_element_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "float_16bits": 0,
+                                "float_32bits": 0,
+                                "float_64bits": 0,
+                                "float_80bits": 0,
+                                "float_128bits": 0,
+                                "float_128bits_powerpc": 0,
+                                "float_64bits_mmx": 0,
+                                "int_4bits": 0,
+                                "int_8bits": 0,
+                                "int_16bits": 0,
+                                "int_32bits": 0,
+                                "int_64bits": 0,
+                                "int_misc": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "llvm_vector_shuffle_vector_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "float_16bits": 0,
+                                "float_32bits": 0,
+                                "float_64bits": 0,
+                                "float_80bits": 0,
+                                "float_128bits": 0,
+                                "float_128bits_powerpc": 0,
+                                "float_64bits_mmx": 0,
+                                "int_4bits": 0,
+                                "int_8bits": 0,
+                                "int_16bits": 0,
+                                "int_32bits": 0,
+                                "int_64bits": 0,
+                                "int_misc": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "aggregate_nonvector_instructions": 0,
+                "aggregate_extract_value_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "float_16bits": 0,
+                                "float_32bits": 0,
+                                "float_64bits": 0,
+                                "float_80bits": 0,
+                                "float_128bits": 0,
+                                "float_128bits_powerpc": 0,
+                                "float_64bits_mmx": 0,
+                                "int_4bits": 0,
+                                "int_8bits": 0,
+                                "int_16bits": 0,
+                                "int_32bits": 0,
+                                "int_64bits": 0,
+                                "int_misc": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "aggregate_insert_value_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "float_16bits": 0,
+                                "float_32bits": 0,
+                                "float_64bits": 0,
+                                "float_80bits": 0,
+                                "float_128bits": 0,
+                                "float_128bits_powerpc": 0,
+                                "float_64bits_mmx": 0,
+                                "int_4bits": 0,
+                                "int_8bits": 0,
+                                "int_16bits": 0,
+                                "int_32bits": 0,
+                                "int_64bits": 0,
+                                "int_misc": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "misc_instructions": 0,
+                "misc_select_instructions": [
+                    {
+                        "total_instructions": 0,
+                        "mix": [
+                            {
+                                "vector_size": 1,
+                                "float_16bits": 0,
+                                "float_32bits": 0,
+                                "float_64bits": 0,
+                                "float_80bits": 0,
+                                "float_128bits": 0,
+                                "float_128bits_powerpc": 0,
+                                "float_64bits_mmx": 0,
+                                "int_4bits": 0,
+                                "int_8bits": 0,
+                                "int_16bits": 0,
+                                "int_32bits": 0,
+                                "int_64bits": 0,
+                                "int_misc": 0,
+                                "struct_type": 0,
+                                "array_type": 0,
+                                "pointer_type": 0,
+                                "instructions": 0
+                            }
+                        ],
+                        "scalar_instructions": 0,
+                        "vector_instructions": 0,
+                        "misc_instructions": 0
+                    }
+                ],
+                "misc_landingpad_instructions": 0,
+                "misc_va_arg_instructions": 0
+            },
+            "ilp": [
+                {
+                    "windowSize": 54,
+                    "statistics": {
+                        "span": 12289,
+                        "arithmetic_mean": 12.6665,
+                        "span_mem": 12282,
+                        "arithmetic_mean_mem": 3.3349,
+                        "span_int": 12285,
+                        "arithmetic_mean_int": 6.6684,
+                        "span_ctrl": 12285,
+                        "arithmetic_mean_ctrl": 1.3343,
+                        "span_fp": 12284,
+                        "arithmetic_mean_fp": 1.3337
+                    },
+                    "in-order": {
+                        "span": 90116,
+                        "arithmetic_mean": 1.7273,
+                        "span_mem": 40960,
+                        "arithmetic_mean_mem": 1.0,
+                        "span_int": 73730,
+                        "arithmetic_mean_int": 1.1111,
+                        "span_ctrl": 16386,
+                        "arithmetic_mean_ctrl": 1.0004,
+                        "span_fp": 16384,
+                        "arithmetic_mean_fp": 1.0
+                    }
+                }
+            ],
+            "dataReuseDistribution": [
+                {
+                    "cacheLineSize": 64,
+                    "statistics": {
+                        "data": [
+                            [
+                                0,
+                                11776
+                            ],
+                            [
+                                1,
+                                13310
+                            ],
+                            [
+                                2,
+                                11263
+                            ],
+                            [
+                                1024,
+                                1025
+                            ],
+                            [
+                                2048,
+                                1537
+                            ]
+                        ],
+                        "dataCDF": [
+                            [
+                                0,
+                                0.2875
+                            ],
+                            [
+                                1,
+                                0.6124
+                            ],
+                            [
+                                2,
+                                0.8874
+                            ],
+                            [
+                                1024,
+                                0.9124
+                            ],
+                            [
+                                2048,
+                                0.9499
+                            ]
+                        ]
+                    }
+                }
+            ],
+            "memoryFootprint": {
+                "shared_addresses_byte_granularity": 0,
+                "total_distinct_addresses_byte_granularity": 131072,
+                "shared_accesses": 0,
+                "total_distinct_accesses_starting_addresses": 2049,
+                "cache_line_size": 64
+            },
+            "instReuseDistribution": [
+                {
+                    "instructionSize": 0,
+                    "cacheLineSize": 0,
+                    "statistics": {
+                        "instructions": [
+                            [
+                                16,
+                                81900
+                            ],
+                            [
+                                32,
+                                73705
+                            ]
+                        ],
+                        "instructionsCDF": [
+                            [
+                                16,
+                                0.5261
+                            ],
+                            [
+                                32,
+                                0.9996
+                            ]
+                        ]
+                    }
+                }
+            ],
+            "registerAccesses": {
+                "reads": 249866,
+                "writes": 126978
+            },
+            "externalLibraryCallCount": {},
+            "branchEntropy": {
+                "entropies": [
+                    {
+                        "bufferSize": "1",
+                        "entropy": 1.0,
+                        "mispredictionRate": 0.000488013
+                    },
+                    {
+                        "bufferSize": "2",
+                        "entropy": 1.00607,
+                        "mispredictionRate": 0.000427038
+                    },
+                    {
+                        "bufferSize": "3",
+                        "entropy": 1.00979,
+                        "mispredictionRate": 0.000305045
+                    },
+                    {
+                        "bufferSize": "4",
+                        "entropy": 1.01248,
+                        "mispredictionRate": 0.000305064
+                    },
+                    {
+                        "bufferSize": "5",
+                        "entropy": 1.01501,
+                        "mispredictionRate": 0.000305083
+                    },
+                    {
+                        "bufferSize": "6",
+                        "entropy": 1.01753,
+                        "mispredictionRate": 0.000305101
+                    },
+                    {
+                        "bufferSize": "7",
+                        "entropy": 1.02005,
+                        "mispredictionRate": 0.00030512
+                    },
+                    {
+                        "bufferSize": "8",
+                        "entropy": 1.02257,
+                        "mispredictionRate": 0.000305139
+                    },
+                    {
+                        "bufferSize": "9",
+                        "entropy": 1.0251,
+                        "mispredictionRate": 0.000305157
+                    },
+                    {
+                        "bufferSize": "10",
+                        "entropy": 1.02762,
+                        "mispredictionRate": 0.000305176
+                    },
+                    {
+                        "bufferSize": "11",
+                        "entropy": 1.03014,
+                        "mispredictionRate": 0.000305194
+                    },
+                    {
+                        "bufferSize": "12",
+                        "entropy": 1.03267,
+                        "mispredictionRate": 0.000305213
+                    },
+                    {
+                        "bufferSize": "13",
+                        "entropy": 1.03519,
+                        "mispredictionRate": 0.000305232
+                    },
+                    {
+                        "bufferSize": "14",
+                        "entropy": 1.03772,
+                        "mispredictionRate": 0.00030525
+                    },
+                    {
+                        "bufferSize": "15",
+                        "entropy": 1.04024,
+                        "mispredictionRate": 0.000305269
+                    },
+                    {
+                        "bufferSize": "16",
+                        "entropy": 1.04276,
+                        "mispredictionRate": 0.000305288
+                    },
+                    {
+                        "bufferSize": "17",
+                        "entropy": 1.04529,
+                        "mispredictionRate": 0.000305306
+                    },
+                    {
+                        "bufferSize": "18",
+                        "entropy": 1.04781,
+                        "mispredictionRate": 0.000305325
+                    },
+                    {
+                        "bufferSize": "19",
+                        "entropy": 1.05034,
+                        "mispredictionRate": 0.000305344
+                    },
+                    {
+                        "bufferSize": "20",
+                        "entropy": 1.05286,
+                        "mispredictionRate": 0.000305362
+                    },
+                    {
+                        "bufferSize": "21",
+                        "entropy": 1.05539,
+                        "mispredictionRate": 0.000305381
+                    },
+                    {
+                        "bufferSize": "22",
+                        "entropy": 1.05792,
+                        "mispredictionRate": 0.000305399
+                    },
+                    {
+                        "bufferSize": "23",
+                        "entropy": 1.06044,
+                        "mispredictionRate": 0.000305418
+                    },
+                    {
+                        "bufferSize": "24",
+                        "entropy": 1.06297,
+                        "mispredictionRate": 0.000305437
+                    },
+                    {
+                        "bufferSize": "25",
+                        "entropy": 1.0655,
+                        "mispredictionRate": 0.000305455
+                    },
+                    {
+                        "bufferSize": "26",
+                        "entropy": 1.06802,
+                        "mispredictionRate": 0.000305474
+                    },
+                    {
+                        "bufferSize": "27",
+                        "entropy": 1.07055,
+                        "mispredictionRate": 0.000305493
+                    },
+                    {
+                        "bufferSize": "28",
+                        "entropy": 1.07308,
+                        "mispredictionRate": 0.000305511
+                    },
+                    {
+                        "bufferSize": "29",
+                        "entropy": 1.0756,
+                        "mispredictionRate": 0.00030553
+                    },
+                    {
+                        "bufferSize": "30",
+                        "entropy": 1.07813,
+                        "mispredictionRate": 0.000305549
+                    },
+                    {
+                        "bufferSize": "31",
+                        "entropy": 1.08066,
+                        "mispredictionRate": 0.000305567
+                    },
+                    {
+                        "bufferSize": "32",
+                        "entropy": 1.08319,
+                        "mispredictionRate": 0.000305586
+                    },
+                    {
+                        "bufferSize": "33",
+                        "entropy": 1.08572,
+                        "mispredictionRate": 0.000305605
+                    },
+                    {
+                        "bufferSize": "34",
+                        "entropy": 1.08825,
+                        "mispredictionRate": 0.000305623
+                    },
+                    {
+                        "bufferSize": "35",
+                        "entropy": 1.09077,
+                        "mispredictionRate": 0.000305642
+                    },
+                    {
+                        "bufferSize": "36",
+                        "entropy": 1.0933,
+                        "mispredictionRate": 0.000305661
+                    },
+                    {
+                        "bufferSize": "37",
+                        "entropy": 1.09583,
+                        "mispredictionRate": 0.00030568
+                    },
+                    {
+                        "bufferSize": "38",
+                        "entropy": 1.09836,
+                        "mispredictionRate": 0.000305698
+                    },
+                    {
+                        "bufferSize": "39",
+                        "entropy": 1.10089,
+                        "mispredictionRate": 0.000305717
+                    },
+                    {
+                        "bufferSize": "40",
+                        "entropy": 1.10342,
+                        "mispredictionRate": 0.000305736
+                    },
+                    {
+                        "bufferSize": "41",
+                        "entropy": 1.10595,
+                        "mispredictionRate": 0.000305754
+                    },
+                    {
+                        "bufferSize": "42",
+                        "entropy": 1.10848,
+                        "mispredictionRate": 0.000305773
+                    },
+                    {
+                        "bufferSize": "43",
+                        "entropy": 1.11101,
+                        "mispredictionRate": 0.000305792
+                    },
+                    {
+                        "bufferSize": "44",
+                        "entropy": 1.11354,
+                        "mispredictionRate": 0.00030581
+                    },
+                    {
+                        "bufferSize": "45",
+                        "entropy": 1.11608,
+                        "mispredictionRate": 0.000305829
+                    },
+                    {
+                        "bufferSize": "46",
+                        "entropy": 1.11861,
+                        "mispredictionRate": 0.000305848
+                    },
+                    {
+                        "bufferSize": "47",
+                        "entropy": 1.12114,
+                        "mispredictionRate": 0.000305867
+                    },
+                    {
+                        "bufferSize": "48",
+                        "entropy": 1.12367,
+                        "mispredictionRate": 0.000305885
+                    },
+                    {
+                        "bufferSize": "49",
+                        "entropy": 1.1262,
+                        "mispredictionRate": 0.000305904
+                    },
+                    {
+                        "bufferSize": "50",
+                        "entropy": 1.12873,
+                        "mispredictionRate": 0.000305923
+                    },
+                    {
+                        "bufferSize": "51",
+                        "entropy": 1.13127,
+                        "mispredictionRate": 0.000305941
+                    },
+                    {
+                        "bufferSize": "52",
+                        "entropy": 1.1338,
+                        "mispredictionRate": 0.00030596
+                    },
+                    {
+                        "bufferSize": "53",
+                        "entropy": 1.13633,
+                        "mispredictionRate": 0.000305979
+                    },
+                    {
+                        "bufferSize": "54",
+                        "entropy": 1.13887,
+                        "mispredictionRate": 0.000305998
+                    },
+                    {
+                        "bufferSize": "55",
+                        "entropy": 1.1414,
+                        "mispredictionRate": 0.000306016
+                    },
+                    {
+                        "bufferSize": "56",
+                        "entropy": 1.14393,
+                        "mispredictionRate": 0.000306035
+                    },
+                    {
+                        "bufferSize": "57",
+                        "entropy": 1.14647,
+                        "mispredictionRate": 0.000306054
+                    },
+                    {
+                        "bufferSize": "58",
+                        "entropy": 1.149,
+                        "mispredictionRate": 0.000306072
+                    },
+                    {
+                        "bufferSize": "59",
+                        "entropy": 1.15154,
+                        "mispredictionRate": 0.000306091
+                    },
+                    {
+                        "bufferSize": "60",
+                        "entropy": 1.15407,
+                        "mispredictionRate": 0.00030611
+                    },
+                    {
+                        "bufferSize": "61",
+                        "entropy": 1.15661,
+                        "mispredictionRate": 0.000306129
+                    },
+                    {
+                        "bufferSize": "62",
+                        "entropy": 1.15914,
+                        "mispredictionRate": 0.000306147
+                    }
+                ],
+                "branches": 0,
+                "bestEntropy": 1.15914,
+                "bestMispredictionRate": 0.000305045
+            }
+        }
+    ]
+}

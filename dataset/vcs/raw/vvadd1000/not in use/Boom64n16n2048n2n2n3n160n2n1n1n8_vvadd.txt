@@ -1,0 +1,15 @@
+nohup: ignoring input
+Chronologic VCS simulator copyright 1991-2020
+Contains Synopsys proprietary information.
+Compiler version R-2020.12-1_Full64; Runtime version R-2020.12-1_Full64;  Sep 16 04:39 2023
+[UART] UART0 is here (stdin/stdout).
+
+vvadd(cid, nc, 4096, input1_data, input2_data, results_data); barrier(nc): 155335 cycles, 37.9 cycles/iter, 1.6 CPI
+
+vvadd(cid, nc, 4096, results_data, input2_data, results_data); barrier(nc): 130621 cycles, 31.8 cycles/iter, 1.3 CPI
+$finish called from file "/proj/users/hanwei.fan/dataset/generated-src/chipyard.harness.TestHarness.Boom64n16n2048n2n2n3n160n2n1n1n8/gen-collateral/TestDriver.v", line 158.
+$finish at simulation time           8897865500
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 8897865500 ps
+CPU Time:   1069.180 seconds;       Data structure size:   3.8Mb
+Sat Sep 16 04:57:35 2023

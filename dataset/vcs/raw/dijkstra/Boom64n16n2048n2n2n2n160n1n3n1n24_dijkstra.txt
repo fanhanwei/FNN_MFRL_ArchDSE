@@ -1,0 +1,15 @@
+Chronologic VCS simulator copyright 1991-2020
+Contains Synopsys proprietary information.
+Compiler version R-2020.12-1_Full64; Runtime version R-2020.12-1_Full64;  Sep 12 18:25 2023
+[UART] UART0 is here (stdin/stdout).
+Error: "/proj/users/hanwei.fan/dataset/generated-src/chipyard.harness.TestHarness.Boom64n16n2048n2n2n2n160n1n3n1n24/gen-collateral/BoomCore.sv", 2331: TestDriver.testHarness.chiptop0.system.tile_prci_domain.tile_reset_domain_boom_tile.core: at time 9251733000 ps
+Assertion failed: Pipeline has hung.
+    at core.scala:1318 assert (!(idle_cycles.value(13)), "Pipeline has hung.")
+
+Fatal: "/proj/users/hanwei.fan/dataset/generated-src/chipyard.harness.TestHarness.Boom64n16n2048n2n2n2n160n1n3n1n24/gen-collateral/BoomCore.sv", 2333: TestDriver.testHarness.chiptop0.system.tile_prci_domain.tile_reset_domain_boom_tile.core: at time 9251733000 ps
+$finish called from file "/proj/users/hanwei.fan/dataset/generated-src/chipyard.harness.TestHarness.Boom64n16n2048n2n2n2n160n1n3n1n24/gen-collateral/BoomCore.sv", line 2333.
+$finish at simulation time           9251733000
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 9251733000 ps
+CPU Time:   1408.770 seconds;       Data structure size:   3.9Mb
+Tue Sep 12 18:49:18 2023
