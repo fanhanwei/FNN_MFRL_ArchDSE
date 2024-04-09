@@ -1,4 +1,5 @@
-This is the repo for Fuzzy Neural Network with Multi-Fidelity RL for Micro-Architecture DSE.
+This is the repo for our DAC24 accepted paper: 
+Explainable Fuzzy Neural Network with Multi-Fidelity Reinforcement Learning for Micro-Architecture Design Space Exploration
 
 ### Pre-request:
 * conda with python3.10 is needed. The downloader can be obtained from this url:
