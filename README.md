@@ -8,7 +8,7 @@ Explainable Fuzzy Neural Network with Multi-Fidelity Reinforcement Learning for 
 * VCS is needed during the DSE, please make sure vcs is callable in your commmand line.
 * McPAT is needed during the DSE, please download McPAT (https://github.com/HewlettPackard/mcpat). Our script will access mcpat from the following path:
 ```sh
-        RISCV_Model_and_DSE/FNN_DSE/analytic/mcpat/mcpat-1.3.0/mcpat
+RISCV_Model_and_DSE/FNN_DSE/analytic/mcpat/mcpat-1.3.0/mcpat
 ```
 
 ### Usage:
