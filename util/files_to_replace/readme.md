@@ -1,4 +1,4 @@
->[!NOTE] We directly modify the sklearn and botorch files to implement the baseline algorithms. We provide the codes that need to be added to the original files in this directory, please follow the instructions in the first line of the corresponding files.
+[!NOTE] We directly modify the sklearn and botorch files to implement the baseline algorithms. We provide the codes that need to be added to the original files in this directory, please follow the instructions in the first line of the corresponding files.
 
 modify your_python/site-packages/botorch/models/gp_regression.py according to ./gp_regression.py
 
