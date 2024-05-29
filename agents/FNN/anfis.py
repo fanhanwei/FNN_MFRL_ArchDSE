@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 '''
-    ANFIS in torch: the ANFIS layers
-    @author: James Power <james.power@mu.ie> Apr 12 18:13:10 2019
-    Acknowledgement: twmeggs' implementation of ANFIS in Python was very
-    useful in understanding how the ANFIS structures could be interpreted:
-        https://github.com/twmeggs/anfis
+    forked from https://github.com/jfpower/anfis-pytorch
+    Add support for u-arch DSE by FAN, Hanwei 
+    Acknowledgement: 
+    Originally developed by @author: James Power <james.power@mu.ie> Apr 12 18:13:10 2019
 '''
 
 import itertools
