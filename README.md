@@ -2,9 +2,10 @@ This is the repo for our DAC24 accepted paper:
 Explainable Fuzzy Neural Network with Multi-Fidelity Reinforcement Learning for Micro-Architecture Design Space Exploration
 
 ### Pre-request:
-* conda with python3.10 is needed. The downloader can be obtained from this url:
-https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Linux-x86_64.sh
-
+* Chipyard 1.10 (https://chipyard.readthedocs.io/en/1.10.0/Chipyard-Basics/Initial-Repo-Setup.html)
+* Python 3.10
+* Please refer to requirements.txt for python packages
+* VCS is needed during the DSE, please make sure vcs is callable in your commmand line.
 * McPAT is needed during the DSE, we have placed a pre-built McPAT under this directory: 
 ```sh
 RISCV_Model_and_DSE/FNN_DSE/analytic/mcpat/mcpat-1.3.0
@@ -12,7 +13,6 @@ RISCV_Model_and_DSE/FNN_DSE/analytic/mcpat/mcpat-1.3.0
 >[!NOTE]
 >If our pre-built McPAT is incompatible with your local environment, please re-build McPAT in this directory. For detailed building instructions, please check the McPAT official repo: https://github.com/HewlettPackard/mcpat 
 
-* VCS is needed during the DSE, please make sure vcs is callable in your commmand line.
 
 ### Usage:
 
