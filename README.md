@@ -54,7 +54,7 @@ python dse-rf.py
 ```
 
 >[!NOTE]
->We directly modify the sklearn and botorch files to implement the above algorithms. Thus, these baselines must be run in the conda environment provided in this repo. The official sklearn and botorch package can't support these algorithms.
+>We directly modify the sklearn and botorch files to implement the above algorithms. The official sklearn and botorch package can't support these algorithms. Please refer to util/files_to_replace and make the necessary modifications. 
 
 A dataset is automatically built under **dataset/vcs**.
 The DSE results are stored in the **log** directory, containing:
