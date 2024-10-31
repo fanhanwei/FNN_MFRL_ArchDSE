@@ -29,7 +29,7 @@ CacheLevel_L2=2
 CacheLevel_DRAM=3
 
 def CacheHitrate(cacheLevel, archProperties, algProperties):
-    D0dreuse128 = ((1,0)) # ???   bench info
+    D0dreuse128 = ((1,0)) 
     def D0dreuse64_L1(x):   #对查表结果的多项式拟合
         if algProperties['alg_name'] == 'dhrystone':
             return torch.tensor(1., dtype=torch.float32)#1.
@@ -121,7 +121,6 @@ def CacheMissrate(cacheLevel, archProperties, algProperties):
     return 1 - CacheHitrate(cacheLevel, archProperties, algProperties)
 
 def FiMem(cacheLevel, archProperties, algProperties):
-    # F0mem = 0.14428 # 来不及的话就直接动手填上，初步实验不用改  GetTotalVMixFraction[GetAlgKeyValueCheck[algProperties, "F0mem"]];
     F0mem = algProperties["F0mem"]
     
     if cacheLevel == CacheLevel_L1: 
@@ -157,16 +156,12 @@ def LPMemMSHR(archProperties, algProperties=None):
     return constraint
 
 def EventListInt(archProperties, algProperties, includeAddr=False): # 定值 无可导项
-    # FeIntMul = 0.0146049          ### PISA
     FeIntMul = algProperties["F0intmul"]
     PeIntMul = archProperties["Cycle_int_mul"]
-    # FeIntDiv = 0.0284007          ### PISA
     FeIntDiv = algProperties["F0intdiv"]
     PeIntDiv = archProperties["Cycle_int_div"]
-    # FeIntOther = ((0.126713 + 0.118083) if includeAddr else 0.118083)-(FeIntMul + FeIntDiv)          ### PISA
     FeIntOther = ((algProperties["F0addr"] + algProperties["F0intOnly"]) if includeAddr else algProperties["F0intOnly"])-(FeIntMul + FeIntDiv)
     PeIntOther = archProperties["Cycle_int_op"]
-    # Todo check int op latency for Boom
     return torch.tensor(FeIntMul * PeIntMul + FeIntDiv * PeIntDiv + FeIntOther * PeIntOther, dtype=torch.float32)
 
 def EventListMem(archProperties, algProperties, grad=False):
@@ -180,19 +175,15 @@ def EventListMem(archProperties, algProperties, grad=False):
     return FeL1 * PeL1 + FeL2 * PeL2 + FeDRAM * PeDRAM
 
 def EventListFP(archProperties, algProperties): # 定值 无可导项
-    # FeFPMul = 0.0000213904  ### PISA
     FeFPMul = algProperties["F0fpmul"]
     PeFPMul = archProperties["Cycle_fp_mul"]
-    # FeFPDiv = 9.58626*10**-8  ### PISA
     FeFPDiv = algProperties["F0fpdiv"]
     PeFPDiv = archProperties["Cycle_fp_div"]
-    # FeFPOther = 0.000035751 - (FeFPMul + FeFPDiv)  ### PISA
     FeFPOther = algProperties["F0fp"] - (FeFPMul + FeFPDiv)
     PeFPOther = archProperties["Cycle_fp_op"]
     return torch.tensor(FeFPMul * PeFPMul + FeFPDiv * PeFPDiv + FeFPOther * PeFPOther, dtype=torch.float32)
 
 def EventListControl(archProperties, algProperties): # 定值  无可导项
-    # FeControl = 0.215023  ### PISA
     FeControl = algProperties["F0control"]
     PeControl = 1 # 假设 control 指令只用1个cycle
     
@@ -200,18 +191,15 @@ def EventListControl(archProperties, algProperties): # 定值  无可导项
 
 def LPILP(archProperties, algProperties=None, show_warning=False):
     n0IQ = archProperties["IQ"]# issue queue len
-    # ILP0WindowSize = 54  ### PISA
     ILP0WindowSize = algProperties["ILP0WindowSize"]
     if (n0IQ != ILP0WindowSize) and show_warning: 
         print('Warning: ILP values of the workload are for a window size of " {} " entries while the architecture is configured with an instruction queue of size " {} " entries'.format(n0IQ, ILP0WindowSize))
-    # ILP = 9.281
     ILP = algProperties["ILP0"]
     sum_events = EventListMem(archProperties, algProperties)+EventListInt(archProperties, algProperties, True)+EventListFP(archProperties, algProperties)
     # event 评估 latency
     return ILP/sum_events
 
 def LPILPType(type, archProperties, algProperties=None):
-    # ILP_dict = {"int":10.2745, "mem":2.0439, "control":6.5548, "fp":1.0186}
     ILP_dict = {"int":algProperties["ILP0int"], "mem":algProperties["ILP0mem"], "control":algProperties["ILP0control"], "fp":algProperties["ILP0fp"]}
     ILPtype = ILP_dict[type]
 
@@ -228,10 +216,8 @@ def LPILPType(type, archProperties, algProperties=None):
 def ConstraintFU(type, archProperties, algProperties=None):
     n0_dict = {"int":archProperties["FUint"], "fp":archProperties["FUfp"], "mem":archProperties["FUmem"], "control":archProperties["FUcontrol"]}
     FUs = n0_dict[type]
-    # F0_dict = {"int":0.451834, "fp":0.0000357501}
     # Since ctrl op is treated as int op in Boom, we add F0control to F0int
     F0_dict = {"int":algProperties["F0int"]+algProperties["F0control"], "fp":algProperties["F0fp"], "mem":algProperties["F0mem"], "control":algProperties["F0control"]}
-    # Fraction = F0_dict[type] + (0.126713 if type == "int" else 0)
     Fraction = F0_dict[type] + (algProperties["F0addr"] if type == "mem" else 0)
     constraint = FUs/Fraction if Fraction != 0 else torch.tensor(float("Inf"), dtype=torch.float32)
     if not isinstance(constraint, torch.Tensor): constraint = torch.tensor(constraint, dtype=torch.float32)
@@ -253,11 +239,8 @@ def MemoryStallPenalty(cacheLevel, cyclesUntilStall, ipc, archProperties, algPro
         return 0
     P = CacheLiLatency(cacheLevel, archProperties, algProperties)
     n0ROB = archProperties["ROB"]
-    # Fevents = F / torch.max(1, torch.min(F * ipc * P, F * n0ROB))
     F_temp = (F * ipc * P) if F * ipc * P < F * n0ROB else F * n0ROB #(* Fraction of overlapping events *) 
     Fevents = (F / F_temp) if F_temp > 1 else F
-    # print('Cachelevel{}: '.format(cacheLevel), ('ipc included' if F * ipc * P < F * n0ROB else 'rob included') if F_temp > 1 else 'F included', ', =0: {}'.format(P <= cyclesUntilStall))
-    # print("F:{}, P:{}".format(F, P), "F*ipc*P:{}".format(F * ipc * P), "F*nROB:{}".format(F * n0ROB))
     return (0 if P <= cyclesUntilStall else (Fevents * (P - cyclesUntilStall)))
 
 def solve_IPC(archProperties, algProperties=None, debug=False):
@@ -280,10 +263,8 @@ def solve_IPC(archProperties, algProperties=None, debug=False):
     if debug: 
         print("Level 1 Constraints:")
         print('  C_issue, C_mshr, C_ILP: {},\n  C_ILP_types(int-mem-ctl-fp): {},\n  C_FU_types(int-mem-fp): {}\n'.format((C_issue,C_mshr,C_ILP),(C_ILP_int,C_ILP_mem,C_ILP_ctrl,C_ILP_fp),(C_FU_int,C_FU_mem,C_FU_fp)))
-        # print('C_issue: {}, C_mshr: {}, C_ILP: {},\nC_ILP_types(int-mem-ctl-fp): {},\nC_FU_types(int-mem-ctl-fp): {}'.format(C_issue.dtype,C_mshr.dtype,C_ILP.dtype,(C_ILP_int.dtype,C_ILP_mem.dtype,C_ILP_ctrl.dtype,C_ILP_fp.dtype),(C_FU_int.dtype,C_FU_mem.dtype,C_FU_control.dtype,C_FU_fp.dtype)))
     
     C_list = torch.stack((C_issue, C_mshr, C_ILP, C_ILP_int, C_ILP_mem, C_ILP_ctrl, C_ILP_fp, C_FU_int, C_FU_mem, C_FU_fp)) # , C_FU_control is wiped out as ctrl ops are treated as int op
-    # print('Constraint list: ', ', '.join(['%.2f'% x for x in C_list]))
     return torch.min(C_list), torch.argmin(C_list)
 
 def CalculateIQROBStallCycles(ipc, archProperties, algProperties=None, debug=False):
@@ -293,7 +274,6 @@ def CalculateIQROBStallCycles(ipc, archProperties, algProperties=None, debug=Fal
     PeDRAM = CacheLiLatency(CacheLevel_DRAM, archProperties, algProperties)
     n0IQ = archProperties["IQ"]# sum of issue queue(int mem fp)
     n0ROB = archProperties["ROB"] # To be changed
-    # ilp = 9.281 #GetAlgKeyValueCheck[algProperties, "ILP0"];
     ilp = algProperties["ILP0"] #GetAlgKeyValueCheck[algProperties, "ILP0"];
     # (* First, we determine which stall occurs first *)
     # (* Cycles until ROB stall depends on the size of the ROB and the IPC *)
@@ -321,10 +301,6 @@ def CalculateIQROBStallCycles(ipc, archProperties, algProperties=None, debug=Fal
     
     drainedIQInstruction1 = 1/FeL2 if FeL2>0 else np.inf
     drainedIQInstruction2 = 1/FeDRAM if FeDRAM>0 else np.inf
-    
-    # cyclesUntilIQStall_list = []
-    # for i in range(len(instructionsUntilIQFill)):
-    #     cyclesUntilIQStall_list.append(min(instructionsUntilIQFill[i],drainedIQInstructions[i]) / ipc)
     
     if debug: 
         print('L2 IQ included: {}, DRAM IQ included: {}'.format(instructionsUntilIQFill1 < drainedIQInstruction1, instructionsUntilIQFill2 < drainedIQInstruction2))
@@ -410,11 +386,9 @@ def SolveIPCLevel2Constraints(maxipc, archProperties, algProperties=None, debug=
 def d0branch(ipc, archProperties, algProperties=None):
    n0frontpipe = archProperties["frontpipe"]    # Core front-end pipeline depth.
    n0IQ = 60#archProperties["IQ"] Don't consider IQ value here, because the architecture is different
-   #F0control = 0.215023 # "F0control" Fraction of control opearations
    F0control = algProperties["F0control"]
    
    #(* Returned value is a latency in _cycles_ (not seconds) *)
-   # F0bestMispredict = 0.0172 # "F0bestMispredict"
    F0bestMispredict = algProperties["bestMispredictionRate"]
    branchModelFactor = 1.71 # (* Haswell model fit *)
    #(* TODO: We only account for the static front-end pipeline refil here. Eyerman, 2006, states that the branch resolution time (which can be approximated as the window drain time) is actually the biggest contributor to the penalty. See his work for models (probably requires more analysis from the application characterization *)
